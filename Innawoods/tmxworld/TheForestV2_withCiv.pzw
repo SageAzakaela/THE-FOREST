@@ -2,8 +2,8 @@
 <world version="1.0" width="10" height="10">
  <BMPToTMX>
   <tmxexportdir path="."/>
-  <rulesfile path=""/>
-  <blendsfile path=""/>
+  <rulesfile path="../rules and blends/Rules.txt"/>
+  <blendsfile path="../rules and blends/Blends.txt"/>
   <mapbasefile path=""/>
   <assign-maps-to-world checked="true"/>
   <warn-unknown-colors checked="true"/>
@@ -161,8 +161,14 @@
  <cell x="1" y="4" map="test_1_4.tmx"/>
  <cell x="2" y="4" map="test_2_4.tmx"/>
  <cell x="3" y="4" map="test_3_4.tmx"/>
- <cell x="4" y="4" map="test_4_4.tmx"/>
- <cell x="5" y="4" map="test_5_4.tmx"/>
+ <cell x="4" y="4" map="test_4_4.tmx">
+  <lot x="298" y="298" level="0" width="2" height="2" map="../buildings/azakaela/Woman_And_Swan_Statue.tbx"/>
+  <lot x="294" y="294" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="297" y="293" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+ </cell>
+ <cell x="5" y="4" map="test_5_4.tmx">
+  <lot x="3" y="296" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+ </cell>
  <cell x="6" y="4" map="test_6_4.tmx"/>
  <cell x="7" y="4" map="test_7_4.tmx"/>
  <cell x="8" y="4" map="test_8_4.tmx"/>
@@ -171,10 +177,16 @@
  <cell x="1" y="5" map="test_1_5.tmx"/>
  <cell x="2" y="5" map="test_2_5.tmx"/>
  <cell x="3" y="5" map="test_3_5.tmx"/>
- <cell x="4" y="5" map="test_4_5.tmx"/>
+ <cell x="4" y="5" map="test_4_5.tmx">
+  <lot x="297" y="4" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
+  <lot x="293" y="0" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="115" y="39" level="0" width="6" height="5" map="../buildings/azakaela/Shack_1_south.tbx"/>
+ </cell>
  <cell x="5" y="5" map="test_5_5.tmx">
   <lot x="11" y="97" level="0" width="11" height="11" map="../../../../Buildings For PZ/credit them/fantasiado/Miscelaneous/Camps/desertcampsite.tbx"/>
   <lot x="105" y="144" level="0" width="13" height="9" map="../buildings/azakaela/ForestCabin_1_south.tbx"/>
+  <lot x="4" y="3" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="0" y="5" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
   <object type="SpawnPoint" x="111" y="256" level="0" width="1" height="1">
    <template name="SpawnPoint"/>
   </object>

@@ -650,14 +650,14 @@ label = Trees
 }
 rule
 {
-label = Trees + Dark grass Aza Edit
+label = Trees + Dark grass 2
     bitmap = 1
     color = 127 127 0
     tiles = [
-        vegetation_trees_01_8
-        vegetation_trees_01_9
-        vegetation_trees_01_10
-        vegetation_trees_01_11
+    vegetation_trees_01_8
+    vegetation_trees_01_9
+    vegetation_trees_01_10
+    vegetation_trees_01_11
 	e_americanlinden_1_03
 	e_carolinasilverbell_1_03
 	e_cockspurhawthorn_1_03
@@ -703,7 +703,6 @@ label = Trees + Dark grass Aza Edit
 	d_plants_1_18
     ]
     layer = 0_Vegetation
-    condition = 90 100 35
 }
 rule
 {
