@@ -1,5 +1,84 @@
 version = 1
 
+alias
+{
+    name = Ash
+    tiles = [
+	floors_burnt_01_1
+	floors_burnt_01_2		
+    ]
+}
+
+alias
+{
+    name = scorchedEarth
+    tiles = [
+        floors_burnt_01_0		
+    ]
+}
+
+alias
+{
+    name = CharredEarth
+    tiles = [
+        floors_burnt_01_8
+
+    ]
+}
+
+alias
+{
+    name = CharredEarth_n
+    tiles = [
+        floors_burnt_01_16
+	floors_burnt_01_20
+		
+    ]
+}
+alias
+{
+    name = CharredEarth_e
+    tiles = [
+        floors_burnt_01_18
+	floors_burnt_01_22
+		
+    ]
+}
+alias
+{
+    name = CharredEarth_s
+    tiles = [
+        floors_burnt_01_19
+	floors_burnt_01_23		
+    ]
+}
+alias
+{
+    name = CharredEarth_w
+    tiles = [
+        floors_burnt_01_17
+	floors_burnt_01_21		
+    ]
+}
+
+alias
+{
+    name = CharredEarthblends
+    tiles = [
+        floors_burnt_01_9
+	floors_burnt_01_10
+	floors_burnt_01_11
+	floors_burnt_01_12	
+	floors_burnt_01_16
+	floors_burnt_01_20	
+        floors_burnt_01_17
+	floors_burnt_01_21
+        floors_burnt_01_19
+	floors_burnt_01_23
+        floors_burnt_01_18
+	floors_burnt_01_22
+    ]
+}
 
 alias
 {
@@ -464,7 +543,23 @@ alias
 }
 
 
+rule
+{
+label = Scorched Earth
+    bitmap = 0
+    color = 160 0 0
+    tiles = scorchedEarth
+    layer = 0_Floor
+}
 
+rule
+{
+label = Charred Earth
+    bitmap = 0
+    color = 180 0 0
+    tiles = CharredEarth
+    layer = 0_Floor
+}
 
 rule
 {
@@ -1690,4 +1785,75 @@ rule
 		vegetation_trees_01_11
 	]
 	layer = 0_Vegetation
+}
+
+rule
+{
+    label = DeadTreesX_X
+    bitmap = 1
+    color = 5 5 5
+    tiles = [
+	pert_vegetation_indoor_01_08
+	pert_vegetation_indoor_01_09
+	pert_vegetation_indoor_01_10
+	pert_vegetation_indoor_01_11
+	pert_vegetation_indoor_01_12
+	pert_vegetation_indoor_01_13
+	pert_vegetation_indoor_01_14
+	pert_vegetation_indoor_01_15
+	pert_vegetation_indoor_01_16
+	pert_vegetation_indoor_01_17
+	pert_vegetation_indoor_01_18
+	pert_vegetation_indoor_01_19
+	pert_vegetation_indoor_01_20
+	pert_vegetation_indoor_01_21
+	pert_vegetation_indoor_01_22
+	pert_vegetation_indoor_01_23
+	pert_vegetation_indoor_01_24
+	pert_vegetation_indoor_01_25
+	pert_vegetation_indoor_01_26
+	pert_vegetation_indoor_01_27
+	fencing_burnt_01_16
+	fencing_burnt_01_17
+	fencing_burnt_01_18
+	fencing_burnt_01_19
+	Ash
+	Ash
+
+    ]
+    layer = 0_Vegetation
+}
+
+rule
+{
+    label = DeadPlantsX_X
+    bitmap = 1
+    color = 55 5 5
+    tiles = [
+	pert_vegetation_indoor_01_08
+	pert_vegetation_indoor_01_12
+	pert_vegetation_indoor_01_16
+	pert_vegetation_indoor_01_20
+	pert_vegetation_indoor_01_24
+	Ash
+	Ash
+	Ash
+	pert_vegetation_indoor_01_32
+	pert_vegetation_indoor_01_33
+	pert_vegetation_indoor_01_35
+	pert_vegetation_indoor_01_34
+	pert_vegetation_indoor_01_36
+	pert_vegetation_indoor_01_37
+	pert_vegetation_indoor_01_38
+	pert_vegetation_indoor_01_39
+	pert_vegetation_indoor_01_40
+	pert_vegetation_indoor_01_41
+	pert_vegetation_indoor_01_42
+	pert_vegetation_indoor_01_43
+	pert_vegetation_indoor_01_44
+	pert_vegetation_indoor_01_47
+	pert_vegetation_indoor_01_45
+	pert_vegetation_indoor_01_46
+    ]
+    layer = 0_Vegetation
 }

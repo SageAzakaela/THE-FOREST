@@ -4,7 +4,7 @@ blend
     mainTile = darkgrass
     blendTile = darkgrass_n
     dir = n
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
 }
 
 blend
@@ -13,7 +13,7 @@ blend
     mainTile = darkgrass
     blendTile = darkgrass_w
     dir = w
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
 }
 
 blend
@@ -22,7 +22,7 @@ blend
     mainTile = darkgrass
     blendTile = darkgrass_e
     dir = e
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
 }
 
 blend
@@ -31,7 +31,7 @@ blend
     mainTile = darkgrass
     blendTile = darkgrass_s
     dir = s
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
 }
 
 blend
@@ -40,7 +40,7 @@ blend
     mainTile = darkgrass
     blendTile = blends_natural_01_17
     dir = nw
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -55,7 +55,7 @@ blend
     mainTile = darkgrass
     blendTile = blends_natural_01_20
     dir = ne
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -70,7 +70,7 @@ blend
     mainTile = darkgrass
     blendTile = blends_natural_01_19
     dir = sw
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -85,7 +85,7 @@ blend
     mainTile = darkgrass
     blendTile = blends_natural_01_18
     dir = se
-    exclude = water
+    exclude = water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -104,7 +104,7 @@ blend
     mainTile = medgrass
     blendTile = medgrass_n
     dir = n
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -119,7 +119,7 @@ blend
     mainTile = medgrass
     blendTile = medgrass_w
     dir = w
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -134,7 +134,7 @@ blend
     mainTile = medgrass
     blendTile = medgrass_e
     dir = e
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -149,7 +149,7 @@ blend
     mainTile = medgrass
     blendTile = medgrass_s
     dir = s
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -164,7 +164,7 @@ blend
     mainTile = medgrass
     blendTile = blends_natural_01_33
     dir = nw
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -179,7 +179,7 @@ blend
     mainTile = medgrass
     blendTile = blends_natural_01_36
     dir = ne
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -194,7 +194,7 @@ blend
     mainTile = medgrass
     blendTile = blends_natural_01_35
     dir = sw
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -209,7 +209,7 @@ blend
     mainTile = medgrass
     blendTile = blends_natural_01_34
     dir = se
-    exclude = darkgrass water
+    exclude = darkgrass water  CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -229,7 +229,7 @@ blend
     mainTile = lightgrass
     blendTile = lightgrass_n
     dir = n
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -244,7 +244,7 @@ blend
     mainTile = lightgrass
     blendTile = lightgrass_w
     dir = w
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -259,7 +259,7 @@ blend
     mainTile = lightgrass
     blendTile = lightgrass_e
     dir = e
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -274,7 +274,7 @@ blend
     mainTile = lightgrass
     blendTile = lightgrass_s
     dir = s
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -289,7 +289,7 @@ blend
     mainTile = lightgrass
     blendTile = blends_natural_01_49
     dir = nw
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -304,7 +304,7 @@ blend
     mainTile = lightgrass
     blendTile = blends_natural_01_52
     dir = ne
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -319,7 +319,7 @@ blend
     mainTile = lightgrass
     blendTile = blends_natural_01_51
     dir = sw
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -334,7 +334,7 @@ blend
     mainTile = lightgrass
     blendTile = blends_natural_01_50
     dir = se
-    exclude = darkgrass medgrass water
+    exclude = darkgrass medgrass water CharredEarth scorchedEarth
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
@@ -642,7 +642,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_72
     dir = n
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -651,7 +651,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_73
     dir = w
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -660,7 +660,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_74
     dir = e
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -669,7 +669,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_75
     dir = s
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -678,7 +678,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_65
     dir = nw
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -687,7 +687,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_66
     dir = se
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -696,7 +696,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_67
     dir = sw
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 blend
@@ -705,7 +705,7 @@ blend
     mainTile = dirt
     blendTile = blends_natural_01_68
     dir = ne
-    exclude = water lightgrass medgrass darkgrass sand
+    exclude = water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand
 }
 
 
@@ -785,3 +785,202 @@ blend
     dir = ne
     exclude = 
 }
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = scorchedEarth
+    blendTile = CharredEarth_n
+    dir = n
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = scorchedEarth
+    blendTile = CharredEarth_w
+    dir = w
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = scorchedEarth
+    blendTile = CharredEarth_e
+    dir = e
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay4
+    mainTile = scorchedEarth
+    blendTile = CharredEarth_s
+    dir = s
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = scorchedEarth
+    blendTile = floors_burnt_01_9
+    dir = nw
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = scorchedEarth
+    blendTile = floors_burnt_01_12
+    dir = ne
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = scorchedEarth
+    blendTile = floors_burnt_01_11
+    dir = sw
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay4
+    mainTile = scorchedEarth
+    blendTile = floors_burnt_01_10
+    dir = se
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+
+
+
+
+
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = CharredEarth
+    blendTile = CharredEarth_n
+    dir = n
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = CharredEarth
+    blendTile = CharredEarth_w
+    dir = w
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = CharredEarth
+    blendTile = CharredEarth_e
+    dir = e
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay4
+    mainTile = CharredEarth
+    blendTile = CharredEarth_s
+    dir = s
+    exclude = water CharredEarth scorchedEarth dirt sand
+}
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = CharredEarth
+    blendTile = floors_burnt_01_9
+    dir = nw
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = CharredEarth
+    blendTile = floors_burnt_01_12
+    dir = ne
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = CharredEarth
+    blendTile = floors_burnt_01_11
+    dir = sw
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
+blend
+{
+    layer = 0_FloorOverlay4
+    mainTile = CharredEarth
+    blendTile = floors_burnt_01_10
+    dir = se
+    exclude = water CharredEarth scorchedEarth dirt sand
+    exclude2 = [
+	street_trafficlines_01 0_FloorOverlay
+	street_trafficlines_01 0_FloorOverlay2
+	street_trafficlines_01 0_FloorOverlay3
+	street_trafficlines_01 0_FloorOverlay4
+    ]
+}
+
