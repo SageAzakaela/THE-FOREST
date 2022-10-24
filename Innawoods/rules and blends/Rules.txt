@@ -1857,3 +1857,81 @@ rule
     ]
     layer = 0_Vegetation
 }
+
+rule
+{
+    label = Baby Forest
+    bitmap = 1
+    color = 150 200 150
+    tiles = [
+	darkshortgrass
+	medshortgrass
+	darkmedgrass
+	darklonggrass
+	e_americanholly_1_00
+	e_americanholly_1_01
+	e_canadianhemlock_1_00
+	e_canadianhemlock_1_01
+	]
+    layer = 0_Vegetation
+}
+
+rule
+{
+    label = Aza's Boulders, Trees, and Grass
+    bitmap = 1
+    color = 255 170 255
+    tiles = [
+    vegetation_trees_01_8
+    vegetation_trees_01_9
+    vegetation_trees_01_10
+    vegetation_trees_01_11
+	e_americanlinden_1_03
+	e_carolinasilverbell_1_03
+	e_cockspurhawthorn_1_03
+	e_dogwood_1_03
+	e_easternredbud_1_03
+	e_redmaple_1_03
+	e_riverbirch_1_03
+	e_yellowwood_1_03
+	darkshortgrass
+	medshortgrass
+	darkmedgrass
+	darklonggrass
+	aza_rockycliff_72
+	aza_rockycliff_73
+	aza_rockycliff_74
+	aza_rockycliff_75
+	aza_rockycliff_76
+	aza_rockycliff_77
+	aza_rockycliff_78
+	aza_rockycliff_79
+	aza_rockycliff_80
+	aza_rockycliff_81
+        e_newgrass_1_071
+        e_newgrass_1_072
+        e_newgrass_1_073
+        e_newgrass_1_074
+        e_newgrass_1_075
+        e_newgrass_1_076
+        e_newgrass_1_077
+        e_newgrass_1_078
+        e_newgrass_1_079
+        e_newgrass_1_080
+        e_newgrass_1_081
+        e_newgrass_1_082
+        e_newgrass_1_083
+        e_newgrass_1_084
+        e_newgrass_1_085
+        e_newgrass_1_086
+        e_newgrass_1_087
+        e_newgrass_1_088
+        e_newgrass_1_089
+        d_generic_1_22
+        d_generic_1_23
+        d_generic_1_24
+        d_generic_1_25
+        d_generic_1_43
+    ]
+    layer = 0_Vegetation
+}

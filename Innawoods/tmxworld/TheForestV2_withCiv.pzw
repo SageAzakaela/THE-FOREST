@@ -165,9 +165,23 @@
   <lot x="298" y="298" level="0" width="2" height="2" map="../buildings/azakaela/Woman_And_Swan_Statue.tbx"/>
   <lot x="294" y="294" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
   <lot x="297" y="293" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="211" y="91" level="0" width="7" height="13" map="../buildings/azakaela/ruins/ruined_bridge1.tbx"/>
+  <lot x="66" y="193" level="0" width="15" height="14" map="../buildings/azakaela/ruins/smal_ruins_2_two_story.tbx"/>
+  <lot x="197" y="168" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
+  <lot x="181" y="163" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="185" y="196" level="0" width="9" height="13" map="../buildings/azakaela/ruins/small_ruins_2.tbx"/>
+  <lot x="189" y="186" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="186" y="184" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="184" y="170" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="185" y="172" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
+  <lot x="178" y="185" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
+  <lot x="194" y="163" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="180" y="195" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
  </cell>
  <cell x="5" y="4" map="test_5_4.tmx">
   <lot x="3" y="296" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="30" y="251" level="0" width="9" height="13" map="../buildings/azakaela/ruins/small_ruins_2.tbx"/>
+  <lot x="12" y="275" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
  </cell>
  <cell x="6" y="4" map="test_6_4.tmx"/>
  <cell x="7" y="4" map="test_7_4.tmx"/>
@@ -183,10 +197,10 @@
   <lot x="115" y="39" level="0" width="6" height="5" map="../buildings/azakaela/Shack_1_south.tbx"/>
  </cell>
  <cell x="5" y="5" map="test_5_5.tmx">
-  <lot x="11" y="97" level="0" width="11" height="11" map="../../../../Buildings For PZ/credit them/fantasiado/Miscelaneous/Camps/desertcampsite.tbx"/>
   <lot x="105" y="144" level="0" width="13" height="9" map="../buildings/azakaela/ForestCabin_1_south.tbx"/>
   <lot x="4" y="3" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
   <lot x="0" y="5" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="28" y="12" level="0" width="15" height="14" map="../buildings/azakaela/ruins/small_ruins_1.tbx"/>
   <object type="SpawnPoint" x="111" y="256" level="0" width="1" height="1">
    <template name="SpawnPoint"/>
   </object>
@@ -194,7 +208,9 @@
    <template name="SpawnPoint"/>
   </object>
  </cell>
- <cell x="6" y="5" map="test_6_5.tmx"/>
+ <cell x="6" y="5" map="test_6_5.tmx">
+  <lot x="20" y="36" level="0" width="51" height="51" map="../buildings/azakaela/ruins/medium_temple.tbx"/>
+ </cell>
  <cell x="7" y="5" map="test_7_5.tmx"/>
  <cell x="8" y="5" map="test_8_5.tmx"/>
  <cell x="9" y="5" map="test_9_5.tmx"/>
