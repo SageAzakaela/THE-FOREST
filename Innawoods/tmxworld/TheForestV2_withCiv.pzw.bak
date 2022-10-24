@@ -208,7 +208,9 @@
    <template name="SpawnPoint"/>
   </object>
  </cell>
- <cell x="6" y="5" map="test_6_5.tmx"/>
+ <cell x="6" y="5" map="test_6_5.tmx">
+  <lot x="20" y="36" level="0" width="51" height="51" map="../buildings/azakaela/ruins/medium_temple.tbx"/>
+ </cell>
  <cell x="7" y="5" map="test_7_5.tmx"/>
  <cell x="8" y="5" map="test_8_5.tmx"/>
  <cell x="9" y="5" map="test_9_5.tmx"/>
@@ -217,9 +219,14 @@
  <cell x="2" y="6" map="test_2_6.tmx"/>
  <cell x="3" y="6" map="test_3_6.tmx"/>
  <cell x="4" y="6" map="test_4_6.tmx"/>
- <cell x="5" y="6" map="test_5_6.tmx"/>
+ <cell x="5" y="6" map="test_5_6.tmx">
+  <lot x="137" y="99" level="0" width="11" height="12" map="../buildings/quietlerlyn/Exterior/1_CampingSite.tbx"/>
+ </cell>
  <cell x="6" y="6" map="test_6_6.tmx"/>
- <cell x="7" y="6" map="test_7_6.tmx"/>
+ <cell x="7" y="6" map="test_7_6.tmx">
+  <lot x="180" y="138" level="0" width="29" height="6" map="../buildings/quietlerlyn/Exterior/1_Bridge_7_6.tbx"/>
+  <lot x="96" y="24" level="0" width="8" height="9" map="../buildings/quietlerlyn/Shacks/3W_Shack.tbx"/>
+ </cell>
  <cell x="8" y="6" map="test_8_6.tmx"/>
  <cell x="9" y="6" map="test_9_6.tmx"/>
  <cell x="0" y="7" map="test_0_7.tmx"/>
@@ -228,14 +235,26 @@
  <cell x="3" y="7" map="test_3_7.tmx"/>
  <cell x="4" y="7" map="test_4_7.tmx"/>
  <cell x="5" y="7" map="test_5_7.tmx"/>
- <cell x="6" y="7" map="test_6_7.tmx"/>
+ <cell x="6" y="7" map="test_6_7.tmx">
+  <lot x="149" y="187" level="0" width="9" height="6" map="../buildings/quietlerlyn/Housing/1S_House.tbx"/>
+  <lot x="144" y="208" level="0" width="10" height="11" map="../buildings/quietlerlyn/Housing/1N_House.tbx"/>
+  <lot x="143" y="223" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1E_Shitter.tbx"/>
+  <lot x="158" y="180" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
+  <lot x="117" y="179" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
+  <lot x="121" y="185" level="0" width="10" height="7" map="../buildings/quietlerlyn/Housing/2S_House.tbx"/>
+  <lot x="102" y="219" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/1E_House.tbx"/>
+  <lot x="83" y="231" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/1W_House.tbx"/>
+  <lot x="65" y="193" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/2E_House.tbx"/>
+ </cell>
  <cell x="7" y="7" map="test_7_7.tmx"/>
  <cell x="8" y="7" map="test_8_7.tmx"/>
  <cell x="9" y="7" map="test_9_7.tmx"/>
  <cell x="0" y="8" map="test_0_8.tmx"/>
  <cell x="1" y="8" map="test_1_8.tmx"/>
  <cell x="2" y="8" map="test_2_8.tmx"/>
- <cell x="3" y="8" map="test_3_8.tmx"/>
+ <cell x="3" y="8" map="test_3_8.tmx">
+  <lot x="132" y="188" level="0" width="10" height="4" map="../buildings/quietlerlyn/Exterior/2_Bridge_3_8.tbx"/>
+ </cell>
  <cell x="4" y="8" map="test_4_8.tmx"/>
  <cell x="5" y="8" map="test_5_8.tmx"/>
  <cell x="6" y="8" map="test_6_8.tmx"/>
