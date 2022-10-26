@@ -1146,6 +1146,30 @@
  <tileset firstgid="35366" name="yourname_posters_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/yourname_posters_01.png" width="512" height="1024"/>
  </tileset>
+ <tileset firstgid="35430" name="aza_the_forest_misc" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/aza_the_forest_misc.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="35494" name="aza_the_forest_stone_temple" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/aza_the_forest_stone_temple.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="35558" name="pert_vegetation_indoor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/pert_vegetation_indoor_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="35686" name="ql_smashedcar_front_var1" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/ql_smashedcar_front_var1.png" width="512" height="1024"/>
+ </tileset>
+ <tileset firstgid="35750" name="ql_the_forest_easter_eggs" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/ql_the_forest_easter_eggs.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="36006" name="ql_the_forest_roof_01" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/ql_the_forest_roof_01.png" width="512" height="2048"/>
+ </tileset>
+ <tileset firstgid="36262" name="z_templates_letterboard" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/z_templates_letterboard.png" width="314" height="233"/>
+ </tileset>
+ <tileset firstgid="36266" name="z_templates_wallcutaways" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/z_templates_wallcutaways.png" width="640" height="1024"/>
+ </tileset>
  <layer name="0_Floor" width="300" height="300">
   <data encoding="base64" compression="zlib">
    eJztwTEBAAAAwqD1T20KP6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAlwF+iwAB
