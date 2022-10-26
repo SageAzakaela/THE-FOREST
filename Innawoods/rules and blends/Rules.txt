@@ -542,6 +542,16 @@ alias
     ]
 }
 
+alias
+{
+    name = moss
+    tiles = [
+	aza_the_forest_moss_blends_0
+        aza_the_forest_moss_blends_5
+        aza_the_forest_moss_blends_6        
+	aza_the_forest_moss_blends_7
+    ]
+}
 
 rule
 {
@@ -661,6 +671,16 @@ label = Water
     bitmap = 0
     color = 0 138 255
     tiles = water
+    layer = 0_Floor
+}
+
+rule
+{
+
+label = Moss
+    bitmap = 0
+    color = 5 5 255
+    tiles = moss
     layer = 0_Floor
 }
 

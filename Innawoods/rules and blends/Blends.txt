@@ -1,5 +1,77 @@
 blend
 {
+    layer = 0_FloorOverlay4
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_8
+    dir = n
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_9
+    dir = w
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_10
+    dir = e
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_11
+    dir = s
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_1
+    dir = nw
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay2
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_2
+    dir = se
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay3
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_3
+    dir = sw
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
+    layer = 0_FloorOverlay4
+    mainTile = moss
+    blendTile = aza_the_forest_moss_blends_4
+    dir = ne
+    exclude = dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth
+}
+
+blend
+{
     layer = 0_FloorOverlay
     mainTile = darkgrass
     blendTile = darkgrass_n
@@ -351,7 +423,7 @@ blend
     mainTile = sand
     blendTile = sand_n
     dir = n
-    exclude = darkgrass medgrass lightgrass water
+    exclude = darkgrass medgrass lightgrass water 
     exclude2 = [
 	street_trafficlines_01 0_FloorOverlay
 	street_trafficlines_01 0_FloorOverlay2
