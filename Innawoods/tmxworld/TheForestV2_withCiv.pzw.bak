@@ -31,7 +31,7 @@
  <propertyenum name="Pose" choices="pose01,pose02,pose03" multi="false"/>
  <propertyenum name="Skin" choices="White,Black" multi="false"/>
  <propertyenum name="RoomTone" choices="Generic,Barn,Mall,Warehouse,Prison,Church,Office,Factory" multi="false"/>
- <propertyenum name="Professions" choices="" multi="true"/>
+ <propertyenum name="Professions" choices="profession" multi="true"/>
  <propertydef name="Direction" default="N" enum="Direction"/>
  <propertydef name="FaceDirection" default="true"/>
  <propertydef name="WaterDirection" default="0.0"/>
@@ -221,6 +221,9 @@
  <cell x="4" y="6" map="test_4_6.tmx"/>
  <cell x="5" y="6" map="test_5_6.tmx">
   <lot x="137" y="99" level="0" width="11" height="12" map="../buildings/quietlerlyn/Exterior/1_CampingSite.tbx"/>
+  <object name="CampingSite" type="SpawnPoint" x="150" y="105" level="0" width="1" height="1">
+   <template name="SpawnPoint"/>
+  </object>
  </cell>
  <cell x="6" y="6" map="test_6_6.tmx"/>
  <cell x="7" y="6" map="test_7_6.tmx">
@@ -242,9 +245,25 @@
   <lot x="158" y="180" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
   <lot x="117" y="179" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
   <lot x="121" y="185" level="0" width="10" height="7" map="../buildings/quietlerlyn/Housing/2S_House.tbx"/>
-  <lot x="102" y="219" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/1E_House.tbx"/>
-  <lot x="83" y="231" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/1W_House.tbx"/>
-  <lot x="65" y="193" level="0" width="21" height="21" map="../buildings/quietlerlyn/Housing/2E_House.tbx"/>
+  <lot x="111" y="220" level="0" width="8" height="12" map="../buildings/quietlerlyn/Housing/1E_House.tbx"/>
+  <lot x="89" y="242" level="0" width="8" height="9" map="../buildings/quietlerlyn/Housing/1W_House.tbx"/>
+  <lot x="71" y="199" level="0" width="11" height="8" map="../buildings/quietlerlyn/Housing/2E_House.tbx"/>
+  <lot x="46" y="208" level="0" width="10" height="6" map="../buildings/quietlerlyn/Housing/3S_House.tbx"/>
+  <lot x="64" y="168" level="0" width="5" height="8" map="../buildings/quietlerlyn/Shacks/3E_Shack.tbx"/>
+  <lot x="67" y="208" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1E_Shitter.tbx"/>
+  <lot x="44" y="202" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
+  <lot x="101" y="228" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
+  <lot x="109" y="235" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1E_Shitter.tbx"/>
+  <lot x="135" y="259" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="131" y="237" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="128" y="214" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="122" y="208" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="133" y="201" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NE_Powerline.tbx"/>
+  <lot x="146" y="197" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="100" y="204" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="90" y="214" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NE_Powerline.tbx"/>
+  <lot x="83" y="225" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="157" y="282" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
  </cell>
  <cell x="7" y="7" map="test_7_7.tmx"/>
  <cell x="8" y="7" map="test_8_7.tmx"/>
@@ -257,8 +276,23 @@
  </cell>
  <cell x="4" y="8" map="test_4_8.tmx"/>
  <cell x="5" y="8" map="test_5_8.tmx"/>
- <cell x="6" y="8" map="test_6_8.tmx"/>
- <cell x="7" y="8" map="test_7_8.tmx"/>
+ <cell x="6" y="8" map="test_6_8.tmx">
+  <lot x="183" y="21" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="199" y="55" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="212" y="90" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="233" y="116" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="260" y="129" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="283" y="144" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+ </cell>
+ <cell x="7" y="8" map="test_7_8.tmx">
+  <lot x="16" y="177" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="44" y="181" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="67" y="185" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/NS_Powerline.tbx"/>
+  <lot x="87" y="198" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="113" y="232" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="122" y="256" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="114" y="282" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+ </cell>
  <cell x="8" y="8" map="test_8_8.tmx"/>
  <cell x="9" y="8" map="test_9_8.tmx"/>
  <cell x="0" y="9" map="test_0_9.tmx"/>
@@ -268,7 +302,19 @@
  <cell x="4" y="9" map="test_4_9.tmx"/>
  <cell x="5" y="9" map="test_5_9.tmx"/>
  <cell x="6" y="9" map="test_6_9.tmx"/>
- <cell x="7" y="9" map="test_7_9.tmx"/>
+ <cell x="7" y="9" map="test_7_9.tmx">
+  <lot x="117" y="12" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="134" y="45" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="142" y="73" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="138" y="99" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="146" y="125" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="160" y="148" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="161" y="174" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="159" y="192" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+  <lot x="165" y="216" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="175" y="239" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
+  <lot x="181" y="267" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
+ </cell>
  <cell x="8" y="9" map="test_8_9.tmx"/>
  <cell x="9" y="9" map="test_9_9.tmx"/>
 </world>
