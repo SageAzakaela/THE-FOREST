@@ -183,9 +183,10 @@
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="75,292 48,277 54,292 51,300 45,301 44,280 41,272 33,266 29,255 26,239 24,219 22,195 25,178 19,164 10,139 10,114 15,94 30,71 45,55 57,44 67,59 60,64 40,75 27,87 15,114 13,130 20,155 29,181 31,200 36,241 39,260 48,273 74,285"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="221,112 217,111 217,104 236,103 251,90 294,92 300,93 299,99 276,96 250,97 230,111"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="276,300 275,294 277,287 281,283 289,280 293,278 300,279 301,279 300,274 281,278 276,282 274,284 272,287 269,291 269,294 270,298 271,300"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="189,211 174,198 172,189 179,175 180,159 203,164 208,174 208,180 211,202"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="82,227 57,206 48,199 55,181 60,174 76,179 86,188 98,200 98,211 96,220"/>
   <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="TownZone" type="TownZone" x="178" y="162" level="0" width="24" height="48"/>
+  <object group="TownZone" type="TownZone" x="178" y="162" level="0" width="33" height="15"/>
+  <object group="TownZone" type="TownZone" x="60" y="190" level="0" width="27" height="26"/>
  </cell>
  <cell x="5" y="4" map="test_5_4.tmx">
   <lot x="3" y="296" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
@@ -195,11 +196,41 @@
   <lot x="44" y="247" level="0" width="21" height="6" map="../buildings/azakaela/ruins/small_ruins_long_eastwest_1.tbx"/>
   <lot x="72" y="271" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
   <lot x="70" y="246" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="144" y="159" level="0" width="18" height="13" map="../buildings/azakaela/ruins/medium_ruins_farm_01_south.tbx"/>
+  <lot x="160" y="208" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
+  <lot x="185" y="196" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="172" y="196" level="0" width="6" height="21" map="../buildings/azakaela/ruins/small_ruins_long_northsouth_1.tbx"/>
+  <lot x="162" y="196" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="165" y="225" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
+  <lot x="194" y="227" level="0" width="21" height="6" map="../buildings/azakaela/ruins/small_ruins_long_eastwest_1.tbx"/>
+  <lot x="196" y="236" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
+  <lot x="207" y="235" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
+  <lot x="102" y="194" level="0" width="13" height="18" map="../buildings/azakaela/ruins/medium_ruins_farm_01_east.tbx"/>
+  <lot x="96" y="223" level="0" width="13" height="12" map="../buildings/azakaela/ruins/small_ruins_3_south.tbx"/>
+  <lot x="117" y="232" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
+  <lot x="127" y="225" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="89" y="263" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
+  <lot x="90" y="264" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="81" y="272" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
+  <lot x="131" y="232" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="115" y="208" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="132" y="216" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="73" y="264" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="73" y="259" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="77" y="259" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="77" y="264" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
   <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="20,286 11,280 10,270 21,258 27,246 36,236 45,226 57,228 75,242 87,254 100,261 109,271 115,279 89,279 81,282 71,280 47,279 38,284 30,285"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="22,299 22,292 19,288 16,283 9,279 4,277 1,277 0,279 -2,273 3,272 7,273 10,272 14,272 15,272 20,276 26,279 29,281 32,283 34,285 35,287 30,285 24,283 21,284 20,287 24,292 24,293 25,296 26,300 25,300"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="27,281 41,280 49,282 56,285 66,285 82,284 89,285 99,288 118,290 131,290 141,291 155,295 160,295 170,300 173,300 159,300 144,295 130,294 111,292 95,293 71,290 48,289 32,285"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="12,272 19,262 24,250 31,239 38,233 43,226 44,212 40,201 35,185 31,160 34,136 32,123 25,112 7,99 -1,98 0,93 9,97 18,104 29,114 32,116 35,121 40,136 41,143 40,149 41,155 41,161 39,166 39,171 38,176 39,182 46,201 51,211 54,215 64,223 76,235 93,244 105,253 112,259 124,268 137,279 150,287 160,296 155,297 142,285 126,275 109,260 95,249 81,247 68,239 57,231 52,223 48,221 46,227 41,236 38,243 30,250 25,259 17,273 14,276 11,273"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="167,299 164,274 162,259 161,250 160,241 159,232 156,223 155,216 155,211 154,207 149,198 144,191 143,186 147,181 148,179 150,177 151,176 153,173 154,172 154,170 151,170 150,170 148,172 147,174 145,176 141,178 140,181 140,185 140,188 140,191 141,193 143,198 148,207 150,211 151,213 152,215 153,218 153,221 153,225 153,228 154,234 156,250 158,256 159,257 159,260 159,263 159,265 159,270 160,274 160,280 161,285 161,291 160,294 161,297"/>
+  <object group="TownZone" type="TownZone" x="16" y="238" level="0" width="92" height="46"/>
+  <object group="TownZone" type="TownZone" x="141" y="156" level="0" width="24" height="20"/>
+  <object group="TownZone" type="TownZone" x="152" y="191" level="0" width="38" height="41"/>
+  <object group="TownZone" type="TownZone" x="170" y="231" level="0" width="10" height="13"/>
+  <object group="TownZone" type="TownZone" x="177" y="238" level="0" width="19" height="7"/>
+  <object group="TownZone" type="TownZone" x="191" y="224" level="0" width="27" height="20"/>
+  <object group="TownZone" type="TownZone" x="96" y="196" level="0" width="42" height="44"/>
  </cell>
  <cell x="6" y="4" map="test_6_4.tmx"/>
  <cell x="7" y="4" map="test_7_4.tmx"/>
@@ -230,9 +261,10 @@
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="292,22 300,22 286,19"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="290,153 292,113 299,105 301,105 301,110 295,116 295,153"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="212,178 223,172 277,198 300,205 300,215 272,207 257,197 232,184 214,181 205,180"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="191,79 177,71 176,46 183,42 190,48 197,56 208,68 213,75 212,80"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="237,79 205,60 200,39 222,28 234,21 234,10 243,10 259,34 267,41 265,49 255,68 240,80"/>
   <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="TownZone" type="TownZone" x="166" y="43" level="0" width="85" height="39"/>
+  <object group="TownZone" type="TownZone" x="219" y="10" level="0" width="45" height="41"/>
+  <object group="TownZone" type="TownZone" x="290" y="-16" level="0" width="19" height="30"/>
  </cell>
  <cell x="5" y="5" map="test_5_5.tmx">
   <lot x="105" y="144" level="0" width="13" height="9" map="../buildings/azakaela/ForestCabin_1_south.tbx"/>
