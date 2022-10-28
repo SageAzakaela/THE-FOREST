@@ -153,10 +153,24 @@
  <cell x="3" y="3" map="test_3_3.tmx"/>
  <cell x="4" y="3" map="test_4_3.tmx"/>
  <cell x="5" y="3" map="test_5_3.tmx"/>
- <cell x="6" y="3" map="test_6_3.tmx"/>
- <cell x="7" y="3" map="test_7_3.tmx"/>
- <cell x="8" y="3" map="test_8_3.tmx"/>
- <cell x="9" y="3" map="test_9_3.tmx"/>
+ <cell x="6" y="3" map="test_6_3.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="187,300 178,299 189,292 190,287 198,286 204,282 210,278 218,277 235,270 243,265 250,260 262,245 268,234 277,228 290,221 298,218 300,218 300,224 300,226 296,226 288,232 283,235 274,239 270,246 263,253 260,260 255,265 247,270 242,276 231,280 220,282 212,287 203,292 195,297"/>
+ </cell>
+ <cell x="7" y="3" map="test_7_3.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="300,278 301,273 282,273 266,274 256,274 244,280 231,281 221,280 212,285 205,293 203,299 206,301 209,301 211,299 217,294 220,291 226,289 234,285 237,285 252,283 262,281 266,281 286,279 297,277"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="300,177 301,170 284,166 275,160 267,158 257,154 246,151 234,151 227,148 219,147 209,147 193,145 186,146 177,143 166,145 155,149 146,153 130,156 116,156 106,154 88,157 79,154 70,156 61,158 50,166 43,173 38,179 27,193 22,204 14,212 7,214 0,218 -1,227 7,222 13,219 20,215 27,210 32,205 39,195 46,187 48,180 54,176 61,172 78,167 85,163 92,161 97,160 105,160 126,160 135,159 143,158 149,158 164,156 173,158 179,157 185,153 189,150 207,152 216,151 222,151 227,152 233,154 250,161 258,162 266,164 274,167 279,169 295,174"/>
+ </cell>
+ <cell x="8" y="3" map="test_8_3.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="-1,278 0,272 19,272 35,266 45,265 59,260 69,257 91,247 100,240 102,235 103,227 100,221 93,217 77,213 68,212 59,207 40,194 32,187 -1,177 1,169 10,170 19,173 27,177 47,192 64,204 83,209 98,213 104,217 106,219 130,219 142,215 149,216 171,217 184,216 190,215 198,214 203,213 218,214 225,214 233,216 243,217 250,219 278,215 289,213 295,211 301,209 301,216 294,217 280,220 268,223 259,223 231,221 222,218 209,220 192,222 176,222 169,223 138,223 108,223 107,229 109,233 109,235 107,243 92,254 86,257 79,262 72,264 68,266 60,271 48,274 40,275 21,279 9,279"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="63,269 67,264 88,278 99,284 127,299 119,302 79,278"/>
+ </cell>
+ <cell x="9" y="3" map="test_9_3.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="0,215 0,209 12,206 21,205 31,202 55,202 69,202 79,205 87,216 108,244 118,259 130,277 142,291 148,299 147,300 142,300 140,299 134,295 127,285 119,273 110,261 94,244 84,232 77,219 67,214 53,209 33,210 19,212 8,216"/>
+ </cell>
  <cell x="0" y="4" map="test_0_4.tmx"/>
  <cell x="1" y="4" map="test_1_4.tmx"/>
  <cell x="2" y="4" map="test_2_4.tmx"/>
@@ -238,10 +252,39 @@
   <lot x="157" y="110" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
   <lot x="191" y="110" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
   <lot x="191" y="144" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
+  <lot x="173" y="252" level="0" width="18" height="13" map="../buildings/azakaela/ruins/medium_ruins_farm_01_south.tbx"/>
+  <lot x="205" y="260" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_north.tbx"/>
+  <lot x="206" y="272" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_south.tbx"/>
+  <lot x="182" y="226" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
+  <lot x="204" y="224" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_2_east.tbx"/>
+  <lot x="220" y="227" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="197" y="242" level="0" width="21" height="6" map="../buildings/azakaela/ruins/small_ruins_long_eastwest_1.tbx"/>
+  <lot x="146" y="257" level="0" width="15" height="14" map="../buildings/azakaela/ruins/small_ruins_1.tbx"/>
+  <lot x="115" y="270" level="0" width="6" height="21" map="../buildings/azakaela/ruins/small_ruins_long_northsouth_1.tbx"/>
+  <lot x="130" y="271" level="0" width="13" height="18" map="../buildings/azakaela/ruins/medium_ruins_farm_01_east.tbx"/>
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="TownZone" type="TownZone" x="154" y="105" level="0" width="45" height="75"/>
+  <object group="TownZone" type="TownZone" x="171" y="222" level="0" width="65" height="62"/>
+  <object group="TownZone" type="TownZone" x="107" y="264" level="0" width="63" height="31"/>
+  <object group="TownZone" type="TownZone" x="140" y="253" level="0" width="32" height="17"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="41,299 53,301 78,261 95,245 111,239 125,215 141,200 162,195 182,193 210,196 249,202 292,215 299,217 301,217 302,210 280,206 264,199 242,193 248,189 262,183 270,180 294,172 302,167 302,156 293,160 281,166 260,177 232,184 220,190 210,187 184,184 174,182 156,186 149,185 139,176 105,140 77,107 56,80 34,52 30,46 22,36 -1,25 0,30 14,43 28,59 37,68 52,88 65,107 70,113 76,118 94,138 103,148 115,166 129,178 139,184 144,190 146,192 137,194 131,195 127,196 119,203 115,208 115,212 114,217 111,223 107,227 101,233 93,237 77,251 73,256 69,263 64,270 63,273 50,288 44,295"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="28,46 20,34 29,37 37,39 53,42 67,42 93,40 104,40 112,41 122,38 138,30 144,30 151,24 160,15 171,6 175,0 178,-2 188,-1 186,3 177,8 171,16 167,21 160,26 149,34 145,39 131,45 120,45 112,46 101,50 89,49 77,48 67,46 58,47 47,47 36,46 31,46"/>
  </cell>
- <cell x="7" y="4" map="test_7_4.tmx"/>
- <cell x="8" y="4" map="test_8_4.tmx"/>
- <cell x="9" y="4" map="test_9_4.tmx"/>
+ <cell x="7" y="4" map="test_7_4.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="102,300 90,298 89,292 88,286 85,278 81,272 74,261 68,255 60,251 55,248 47,243 35,235 28,232 21,229 15,223 2,216 -1,215 1,209 8,212 17,216 22,219 30,225 47,238 55,242 61,245 60,241 62,241 66,244 69,247 73,254 78,256 82,260 84,264 86,268 94,277 97,285 100,292 102,297"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="1,167 1,156 13,146 25,144 30,141 38,139 60,132 70,133 79,130 84,129 99,125 102,122 112,119 131,112 142,107 153,102 168,93 176,84 184,76 188,65 192,61 191,50 193,31 194,19 195,12 202,3 205,-1 210,-1 205,9 202,16 199,25 198,32 200,39 198,47 203,58 202,63 199,70 193,78 185,81 176,95 167,100 160,107 153,112 148,116 138,119 129,122 121,126 103,130 91,136 86,136 77,139 62,141 51,141 43,143 34,147 19,159 10,163 3,166"/>
+ </cell>
+ <cell x="8" y="4" map="test_8_4.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="300,262 275,252 257,247 245,244 233,244 212,241 203,241 191,248 176,249 157,248 142,243 131,235 109,228 93,222 71,223 55,223 39,221 30,220 25,213 25,205 23,198 22,191 23,178 24,166 26,158 33,153 42,152 56,143 67,135 73,132 97,121 119,108 136,93 145,87 149,84 165,84 175,84 185,86 194,84 205,81 219,86 227,88 241,89 276,90 302,94 301,105 250,102 227,95 184,93 152,94 132,104 113,120 101,129 82,141 66,148 42,160 31,170 32,181 36,191 37,204 41,210 48,215 58,213 67,213 86,216 104,220 123,225 137,231 150,238 159,241 179,243 189,240 199,235 212,236 225,237 245,239 261,240 281,246 301,257"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="218,86 231,89 231,87 224,81 214,71 206,56 195,45 187,39 166,24 149,14 132,1 126,-1 118,-1 117,0 126,5 132,8 153,24 169,34 182,41 190,48 199,59 210,71 217,81"/>
+ </cell>
+ <cell x="9" y="4" map="test_9_4.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="0,105 -1,92 24,96 61,97 82,98 112,99 129,102 156,97 175,93 194,88 206,86 216,81 246,80 260,82 278,85 265,80 244,68 232,61 225,56 205,55 194,50 185,40 181,32 168,27 154,15 140,-2 147,-3 155,6 169,19 180,25 190,32 199,43 207,51 231,52 240,59 248,67 255,70 283,81 291,84 302,85 300,88 291,88 280,89 269,92 258,91 244,90 235,90 223,90 209,94 197,97 176,101 163,104 151,106 130,108 115,107 90,108 75,110 57,109 41,110 28,107 18,108 4,108"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="-1,261 1,257 13,260 25,267 35,275 42,282 49,293 53,301 48,301 44,300 43,294 37,285 32,280 20,273 4,265"/>
+ </cell>
  <cell x="0" y="5" map="test_0_5.tmx"/>
  <cell x="1" y="5" map="test_1_5.tmx"/>
  <cell x="2" y="5" map="test_2_5.tmx"/>
@@ -334,6 +377,10 @@
   <lot x="100" y="52" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_west.tbx"/>
   <lot x="119" y="54" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
   <lot x="127" y="44" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="195" y="50" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_2_east.tbx"/>
+  <lot x="219" y="25" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_north.tbx"/>
+  <lot x="221" y="43" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_south.tbx"/>
+  <lot x="205" y="33" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_2_west.tbx"/>
   <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="299,255 300,254 300,258 280,266 262,274 245,273 223,272 201,265 193,264 174,254 150,238 133,225 111,203 102,196 82,197 68,201 47,214 31,226 25,233 20,234 8,241 0,229 20,217 28,215 45,210 59,203 77,192 83,189 96,189 118,187 134,183 162,169 181,154 192,153 233,153 254,159 276,169 275,171 256,166 227,161 197,156 178,165 145,184 126,195 115,195 120,203 146,227 175,249 200,258 224,267 240,268 256,267 268,266"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="197,226 194,219 204,217 216,218 234,218 245,212 251,201 253,185 261,173 269,170 272,170 281,169 296,163 305,160 302,167 292,169 288,173 300,180 301,191 282,177 265,179 257,188 256,204 242,221 226,227 198,227"/>
@@ -342,11 +389,62 @@
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="1,39 0,32 18,20 41,-1 53,0 44,14"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="16,22 0,16 0,12 28,15"/>
   <object group="Nav" type="Nav" level="0" geometry="polygon" points="27,110 1,78 0,90 24,115"/>
-  <object group="TownZone" type="TownZone" level="0" geometry="polygon" points="50,106 31,96 22,99 12,85 8,67 6,52 8,42 19,33 30,28 46,28 58,27 65,29 76,27 87,25 102,11 107,5 114,4 122,8 132,17 141,29 145,39 144,47 140,58 136,66 123,71 112,65 103,62 93,63 86,64 79,73 73,83 69,90 65,98 60,102"/>
+  <object group="TownZone" type="TownZone" x="14" y="37" level="0" width="59" height="53"/>
+  <object group="TownZone" type="TownZone" x="18" y="90" level="0" width="28" height="18"/>
+  <object group="TownZone" type="TownZone" x="89" y="8" level="0" width="50" height="62"/>
+  <object group="TownZone" type="TownZone" x="179" y="30" level="0" width="41" height="29"/>
+  <object group="TownZone" type="TownZone" x="214" y="22" level="0" width="22" height="29"/>
  </cell>
- <cell x="7" y="5" map="test_7_5.tmx"/>
- <cell x="8" y="5" map="test_8_5.tmx"/>
- <cell x="9" y="5" map="test_9_5.tmx"/>
+ <cell x="7" y="5" map="test_7_5.tmx">
+  <lot x="177" y="17" level="0" width="29" height="47" map="../buildings/azakaela/ruins/LargeRuins_1_South.tbx"/>
+  <lot x="181" y="130" level="0" width="18" height="13" map="../buildings/azakaela/ruins/medium_ruins_farm_01_south.tbx"/>
+  <lot x="181" y="149" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="194" y="154" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="161" y="252" level="0" width="6" height="21" map="../buildings/azakaela/ruins/small_ruins_long_northsouth_1.tbx"/>
+  <lot x="173" y="246" level="0" width="9" height="13" map="../buildings/azakaela/ruins/small_ruins_2.tbx"/>
+  <lot x="187" y="253" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_1_east.tbx"/>
+  <lot x="189" y="263" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_2_east.tbx"/>
+  <lot x="164" y="284" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_south.tbx"/>
+  <lot x="180" y="286" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="114" y="226" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
+  <lot x="124" y="227" level="0" width="2" height="3" map="../buildings/azakaela/Collumn_Fallen_North.tbx"/>
+  <lot x="124" y="234" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="114" y="235" level="0" width="2" height="2" map="../buildings/azakaela/Collumn_Upright.tbx"/>
+  <lot x="111" y="224" level="0" width="3" height="2" map="../buildings/azakaela/Collumn_Fallen_West.tbx"/>
+  <lot x="224" y="104" level="0" width="13" height="9" map="../buildings/azakaela/ForestCabin_1_south.tbx"/>
+  <lot x="223" y="155" level="0" width="5" height="6" map="../buildings/quietlerlyn/Shacks/1N_Shack.tbx"/>
+  <lot x="212" y="131" level="0" width="5" height="8" map="../buildings/quietlerlyn/Shacks/3E_Shack.tbx"/>
+  <lot x="228" y="144" level="0" width="8" height="9" map="../buildings/quietlerlyn/Shacks/3W_Shack.tbx"/>
+  <lot x="215" y="218" level="0" width="9" height="9" map="../buildings/quietlerlyn/Shacks/3S_Shack.tbx"/>
+  <lot x="214" y="229" level="0" width="11" height="12" map="../buildings/quietlerlyn/Exterior/1_CampingSite.tbx"/>
+  <lot x="223" y="225" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/1S_Shitter.tbx"/>
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="1,191 -1,180 10,190 18,195 23,198 28,199 32,203 39,208 40,210 37,222 33,228 33,234 31,242 18,248 11,251 2,256 0,257 0,254 7,250 13,247 20,244 23,240 27,235 29,231 29,219 28,209 24,203 18,198 10,195 5,196 2,193 0,190"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="39,210 46,196 45,224 48,235 31,237 31,242 55,243 89,269 115,290 120,300 132,300 116,282 101,271 76,254 63,243 53,236 49,224 49,206 49,194 58,175 63,146 66,126 65,121 45,101 35,91 25,84 2,65 -1,65 -1,69 11,79 29,97 44,108 54,118 57,127 60,137 60,144 58,149 55,161 52,171 48,177 45,187 39,194 34,202 32,206"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="49,178 51,172 31,166 18,160 2,160 1,165 1,167 15,169 26,171 36,174 51,181"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="-109,153 -116,149 -108,137 -101,128 -97,116 -90,103 -85,92 -76,84 -72,80 -63,72 -55,65 -51,64 -11,61 -4,59 2,61 6,63 4,68 2,70 -6,67 -16,66 -25,68 -37,68 -49,71 -54,75 -57,79 -78,99 -86,108 -88,114 -100,131 -101,136 -105,145"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="162,300 154,300 150,284 148,271 146,259 140,242 135,233 128,220 122,212 108,197 104,186 96,172 92,163 88,150 84,134 77,122 74,112 77,100 80,93 64,83 52,79 41,76 22,70 5,66 0,62 2,58 14,61 22,61 32,67 41,70 50,71 57,72 83,89 89,76 90,71 92,56 91,40 88,28 89,15 90,3 91,-3 96,-3 103,-2 101,4 102,10 102,19 102,26 101,37 100,43 98,70 96,80 91,88 93,91 97,89 106,84 111,84 117,82 121,81 130,81 147,76 159,76 165,73 169,71 194,70 202,69 210,69 219,71 237,71 249,70 260,71 284,70 297,70 302,72 302,76 300,78 290,77 275,79 259,79 250,79 227,81 214,80 204,78 185,79 172,80 159,81 148,84 134,85 122,88 112,90 97,96 87,98 83,100 83,112 84,119 84,129 85,131 94,144 96,152 102,166 108,175 112,181 119,198 124,207 129,215 134,222 143,240 150,252 155,259 157,265 157,273 162,299"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="132,221 132,218 135,218 141,219 147,221 154,225 160,228 165,229 168,227 173,225 175,225 182,226 187,226 193,226 195,225 202,221 210,220 214,223 225,229 227,234 225,240 223,243 223,245 220,245 214,239 211,234 206,230 201,229 194,231 183,234 175,232 167,231 163,231 160,230 152,228 147,226 143,224 139,222 136,221"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="122,207 125,209 126,209 128,205 130,202 134,196 139,193 148,185 149,182 153,179 162,178 166,175 171,177 179,182 180,183 184,186 189,186 196,183 202,179 205,176 209,174 216,168 217,166 218,160 216,155 213,150 213,145 213,141 209,140 205,143 205,149 207,154 209,159 210,163 208,165 202,172 200,175 195,179 191,180 182,179 178,178 169,174 161,171 155,171 148,174 143,178 135,188 126,196 123,202 121,204"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="267,78 266,82 273,93 281,103 285,108 290,113 297,121 300,127 299,114 301,109 301,108 294,105 286,98 280,92 273,82 273,79 273,77"/>
+  <object group="TownZone" type="TownZone" x="174" y="127" level="0" width="33" height="36"/>
+  <object group="TownZone" type="TownZone" x="206" y="127" level="0" width="31" height="37"/>
+  <object group="TownZone" type="TownZone" x="212" y="96" level="0" width="28" height="32"/>
+  <object group="TownZone" type="TownZone" x="166" y="10" level="0" width="50" height="61"/>
+  <object group="TownZone" type="TownZone" x="211" y="215" level="0" width="17" height="29"/>
+  <object group="TownZone" type="TownZone" x="152" y="246" level="0" width="50" height="51"/>
+  <object group="TownZone" type="TownZone" x="106" y="218" level="0" width="27" height="22"/>
+ </cell>
+ <cell x="8" y="5" map="test_8_5.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="-2,126 -2,112 -2,106 0,107 6,116 10,121 17,133 17,137 19,143 28,155 34,166 40,175 46,184 57,192 67,199 78,204 88,205 95,211 103,216 116,220 123,223 129,227 135,231 140,232 144,233 156,239 166,246 170,250 187,265 190,270 195,281 196,286 195,293 193,297 193,300 186,300 187,297 187,289 187,280 185,275 181,269 178,263 174,259 163,252 154,244 148,240 140,235 134,234 126,230 120,226 111,226 101,220 89,215 78,210 70,208 60,202 49,195 40,188 27,171 20,163 15,155 7,141 2,130 -1,125"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="1,77 1,71 9,68 21,67 41,68 52,71 61,71 74,75 86,77 92,78 102,80 114,82 121,88 128,92 133,97 150,104 154,108 158,109 161,107 167,104 177,103 183,101 188,101 194,102 201,104 206,105 219,111 227,113 231,114 239,115 250,114 258,113 263,110 286,102 295,97 300,93 301,100 299,104 287,109 285,111 277,112 258,118 248,121 238,124 222,119 210,115 198,110 193,107 177,108 170,107 163,110 158,111 149,110 143,109 137,106 128,100 121,93 105,88 97,87 89,84 72,81 60,78 50,75 39,75 27,74 20,76 5,77"/>
+ </cell>
+ <cell x="9" y="5" map="test_9_5.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="44,0 53,0 53,9 47,10 43,6"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="44,5 53,10 35,17 26,22 30,30 31,41 33,51 28,61 15,66 8,74 7,81 8,95 2,102 -2,100 -1,94 1,89 3,79 5,66 6,63 16,56 20,56 25,51 25,46 25,39 21,31 18,22 21,15 24,12 29,12 41,8"/>
+ </cell>
  <cell x="0" y="6" map="test_0_6.tmx"/>
  <cell x="1" y="6" map="test_1_6.tmx"/>
  <cell x="2" y="6" map="test_2_6.tmx"/>
@@ -362,9 +460,44 @@
  <cell x="7" y="6" map="test_7_6.tmx">
   <lot x="180" y="138" level="0" width="29" height="6" map="../buildings/quietlerlyn/Exterior/1_Bridge_7_6.tbx"/>
   <lot x="96" y="24" level="0" width="8" height="9" map="../buildings/quietlerlyn/Shacks/3W_Shack.tbx"/>
+  <lot x="252" y="48" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="253" y="32" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
+  <lot x="242" y="47" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_north.tbx"/>
+  <lot x="240" y="32" level="0" width="7" height="6" map="../buildings/azakaela/ruins/tiny_ruins_2_south.tbx"/>
+  <lot x="231" y="46" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_north.tbx"/>
+  <lot x="229" y="31" level="0" width="6" height="7" map="../buildings/azakaela/ruins/tiny_ruins_1_south.tbx"/>
+  <lot x="238" y="13" level="0" width="15" height="14" map="../buildings/azakaela/ruins/smal_ruins_2_two_story.tbx"/>
+  <lot x="257" y="8" level="0" width="6" height="21" map="../buildings/azakaela/ruins/small_ruins_long_northsouth_1.tbx"/>
+  <lot x="267" y="41" level="0" width="8" height="8" map="../buildings/azakaela/ruins/obelisk.tbx"/>
+  <lot x="269" y="21" level="0" width="18" height="13" map="../buildings/azakaela/ruins/medium_ruins_farm_01_south.tbx"/>
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="301,181 292,183 290,181 287,185 280,188 274,191 263,198 251,204 229,217 218,224 213,230 211,235 213,225 216,216 218,206 215,200 211,201 210,209 206,217 205,224 201,224 198,239 198,245 195,251 194,258 186,265 182,273 180,277 175,285 171,295 170,299 170,300 172,299 177,300 179,300 179,296 184,288 186,281 191,274 197,267 203,257 211,246 215,239 219,233 235,224 241,217 246,213 254,209 259,208 270,200 274,199 269,206 266,211 264,218 262,226 261,239 260,245 257,252 255,258 247,275 242,283 234,293 233,298 233,300 237,300 239,298 241,292 246,286 250,277 253,273 257,267 258,264 261,254 265,249 265,242 266,237 268,228 274,217 273,214 278,203 281,198 286,195 291,192 296,189 300,187"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="299,110 299,100 280,101 272,102 257,98 245,91 238,87 233,78 226,65 220,58 212,54 208,52 198,47 184,42 174,35 171,29 161,0 155,-3 153,-1 152,0 155,7 157,13 158,17 158,20 156,19 144,9 132,2 129,-2 120,-2 120,-1 130,8 135,14 139,19 143,22 162,32 171,41 190,51 197,58 207,61 220,70 228,79 230,84 234,91 242,101 244,104 244,111 242,116 236,131 231,135 218,139 214,138 205,139 181,139 181,143 211,143 220,142 229,141 244,129 250,121 251,114 261,111 296,110"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="100,35 95,32 87,33 79,30 71,27 68,27 65,29 58,32 52,29 46,26 43,27 45,34 56,33 64,34 71,34 79,33 85,35 98,38 99,36"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="48,32 41,36 43,44 42,50 39,60 44,67 48,67 48,60 48,52 50,37"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="46,68 23,60 9,60 -1,60 -3,53 4,53 15,54 22,52 28,55 38,58 44,62"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="47,61 43,65 48,70 55,74 75,89 86,99 91,104 106,122 119,134 128,143 138,149 142,144 128,136 118,127 100,107 88,95 70,81 53,68 48,64"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="140,154 138,146 140,144 146,144 152,145 181,139 182,144"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="140,155 119,158 113,172 110,182 107,198 107,206 106,214 100,226 98,232 93,245 91,254 88,269 85,278 84,300 76,301 78,292 79,280 82,270 84,256 87,242 89,232 97,220 101,213 103,204 103,184 108,175 110,161 118,154 127,148 132,147 139,147 144,149 145,154"/>
+  <object group="TownZone" type="TownZone" x="93" y="22" level="0" width="14" height="16"/>
+  <object group="TownZone" type="TownZone" x="218" y="10" level="0" width="64" height="53"/>
+  <object group="TownZone" type="TownZone" x="273" y="15" level="0" width="19" height="27"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="222,60 217,57 215,55 217,47 221,41 226,39 237,39 244,39 253,41 257,39 260,39 263,36 261,33 253,30 248,31 241,30 236,30 233,28 248,26 254,26 258,27 261,29 263,26 265,22 265,16 267,16 270,20 272,27 270,30 269,36 268,38 267,39 262,44 261,45 255,45 249,45 241,43 238,43 232,44 231,44 225,48 225,59"/>
  </cell>
- <cell x="8" y="6" map="test_8_6.tmx"/>
- <cell x="9" y="6" map="test_9_6.tmx"/>
+ <cell x="8" y="6" map="test_8_6.tmx">
+  <lot x="21" y="19" level="0" width="251" height="251" map="../buildings/azakaela/ruins/MAZE RUINS.tbx"/>
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="TownZone" type="TownZone" x="15" y="12" level="0" width="257" height="258"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="23,108 -2,110 -1,100 26,101"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="301,138 272,111 271,103 275,96 275,90 280,103 293,104 303,104 300,111 291,112 282,108 278,108 283,116 291,124 296,127 299,130 301,134"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="275,100 272,69 271,42 271,31 271,23 269,17 258,17 232,16 217,16 159,16 133,16 123,13 116,9 108,9 101,12 81,16 60,15 48,19 36,20 28,19 23,19 17,20 22,27 21,32 21,40 21,44 19,102 14,103 13,101 14,84 14,56 18,41 14,23 15,18 17,11 22,9 33,9 42,12 46,13 72,10 85,10 92,9 98,5 104,3 113,2 118,3 122,3 126,5 130,8 134,10 137,10 145,10 151,10 163,9 166,9 175,9 188,10 186,-3 194,-1 193,4 193,9 197,9 201,9 206,9 213,8 225,6 230,6 235,8 245,8 254,10 262,11 270,12 275,14 278,16 279,22 279,28 278,35 278,40 278,77 277,87 279,95"/>
+ </cell>
+ <cell x="9" y="6" map="test_9_6.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="149,61 150,58 155,60 154,62 152,67 149,73 147,76 133,87 128,93 120,97 114,100 100,109 89,112 80,117 68,121 57,120 43,114 36,109 20,109 6,110 -1,111 -1,110 1,105 4,101 15,100 23,99 30,99 52,108 63,111 72,109 95,101 104,99 125,84 134,76 143,68"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="0,137 1,134 22,147 39,158 57,174 64,177 92,196 102,206 123,220 140,234 164,251 172,259 182,277 190,297 189,301 182,299 180,287 173,275 171,271 168,266 160,255 144,242 127,230 116,220 102,210 89,200 74,191 61,182 35,163 19,150 5,141"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="110,215 109,222 95,222 85,224 76,228 65,235 59,244 64,253 68,259 66,265 61,268 58,269 55,276 56,285 49,289 41,289 32,290 25,290 5,288 -2,291 -2,294 0,297 12,294 23,295 30,296 54,293 64,287 69,278 73,269 74,266 77,258 76,253 77,241 80,235 91,230 94,229 113,226 118,225 119,220"/>
+ </cell>
  <cell x="0" y="7" map="test_0_7.tmx"/>
  <cell x="1" y="7" map="test_1_7.tmx"/>
  <cell x="2" y="7" map="test_2_7.tmx"/>
@@ -398,9 +531,39 @@
   <lot x="83" y="225" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
   <lot x="157" y="282" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/SE_Powerline.tbx"/>
  </cell>
- <cell x="7" y="7" map="test_7_7.tmx"/>
- <cell x="8" y="7" map="test_8_7.tmx"/>
- <cell x="9" y="7" map="test_9_7.tmx"/>
+ <cell x="7" y="7" map="test_7_7.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="270,300 277,300 271,289 262,278 255,270 244,258 229,240 220,232 211,224 195,211 183,201 173,192 161,177 153,168 146,159 145,151 143,147 137,132 131,120 126,108 120,91 116,81 116,72 116,63 114,49 109,37 103,25 92,12 84,-2 75,0 80,11 91,22 99,35 105,45 109,54 110,62 110,66 110,73 111,78 114,90 118,100 121,107 126,115 127,120 127,126 136,143 138,152 142,161 156,182 163,190 171,198 199,222 210,232 231,250 242,262 249,270"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="126,125 130,130 126,136 117,145 101,156 85,163 66,178 57,187 37,197 26,202 8,207 2,210 -2,207 -2,204 3,201 10,200 25,193 51,180 59,172 67,163 81,158 95,152 104,146 124,128"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="88,157 83,157 84,145 74,124 55,106 38,90 21,77 8,69 -2,62 -2,56 -1,56 14,66 25,74 41,87 48,94 70,111 82,125 87,134 91,152"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="262,197 253,183 247,170 237,163 221,151 208,149 197,138 185,125 175,112 167,99 170,88 168,67 161,54 159,42 168,21 176,14 178,3 180,-1 175,-5 171,-2 168,2 161,18 153,35 151,45 151,55 152,63 155,76 157,86 163,107 172,120 179,129 200,148 211,159 219,165 242,180 257,194"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="301,202 301,193 281,191 268,183 257,177 246,170 247,175 256,186 265,190 277,195 288,198 294,201"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="301,176 299,165 288,155 277,146 270,142 255,130 245,118 239,109 235,99 235,92 235,76 233,65 231,51 229,36 230,22 228,15 237,-1 230,0 224,8 220,16 222,36 225,51 223,60 228,85 230,93 228,103 231,110 248,133 261,144 287,164"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="170,87 167,85 172,79 185,70 201,63 215,52 226,42 228,51 221,58 210,69 189,81 177,87"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="233,77 234,71 245,78 254,82 258,81 268,87 276,92 296,100 302,102 299,116 273,103 264,96 247,85"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="300,55 285,49 274,42 261,35 238,31 231,31 226,23 225,14 228,12 233,17 236,24 244,27 252,27 259,26 265,28 287,39 296,47 301,49"/>
+ </cell>
+ <cell x="8" y="7" map="test_8_7.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="301,292 301,284 291,286 272,282 247,279 237,276 229,270 225,265 216,261 211,260 201,256 194,255 180,251 169,247 159,252 157,252 139,252 127,252 120,246 111,242 102,237 82,231 66,227 53,224 43,225 38,215 32,207 24,201 -1,192 -2,198 0,201 17,209 27,213 38,226 49,232 58,235 71,238 89,241 101,243 109,249 123,257 134,261 145,261 170,261 182,263 193,265 213,269 220,270 225,272 232,279 253,289 261,288 270,288 294,292"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="214,263 205,258 204,255 211,250 218,248 219,242 216,237 213,230 211,224 210,220 212,206 215,198 223,191 236,180 242,174 253,166 269,151 279,143 280,140 277,135 268,128 258,118 251,106 245,96 245,100 239,101 227,103 220,104 212,107 192,108 182,107 176,109 164,110 144,113 129,115 109,117 98,118 85,118 90,113 107,112 117,110 147,109 159,106 180,101 197,96 222,94 236,93 242,93 251,93 255,96 257,106 262,114 270,123 285,131 290,138 287,147 280,149 266,162 256,171 234,190 222,202 219,225 223,235 224,254 218,261"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="248,94 247,80 241,73 234,62 218,54 207,48 190,43 181,47 170,64 159,68 150,67 140,75 132,84 131,91 128,95 113,99 104,104 88,115 86,118 84,117 83,107 80,92 77,86 78,84 82,86 86,91 87,96 88,101 90,107 96,101 100,96 103,90 107,87 121,82 128,82 131,74 137,67 141,63 151,58 157,57 164,56 171,51 176,44 188,37 196,37 210,40 217,43 226,45 238,55 243,61 247,65 252,72 255,80 256,89 257,94"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="299,86 283,77 270,72 260,74 252,77 249,74 257,65 268,63 278,65 289,72 298,80"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="249,66 246,67 240,60 240,53 241,45 244,31 242,12 237,2 238,-6 240,-10 243,-10 246,-2 246,4 247,11 248,12 253,9 266,0 276,-1 284,-3 289,-2 293,-5 294,-6 299,-10 300,-3 297,-1 288,2 278,4 269,6 258,12 249,17 247,22 248,29 248,47 250,60"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="154,59 150,53 138,43 130,32 117,14 110,3 104,-2 101,-1 100,2 108,14 114,21 120,31 128,41 133,45 124,40 110,34 103,33 82,30 66,27 56,28 46,38 43,44 38,49 29,48 12,50 2,51 -3,50 -3,53 2,59 10,56 18,59 25,59 29,58 35,57 41,55 47,54 49,51 58,42 64,36 72,36 77,37 82,38 89,39 108,43 122,50 137,55 149,63"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="23,204 -2,173 -4,167 -2,166 12,178 24,191 35,203 38,211 36,213"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="118,247 110,243 106,234 102,224 92,212 88,204 79,193 72,183 66,173 63,159 62,149 67,136 69,124 77,121 86,113 88,111 95,118 89,124 82,129 74,137 73,149 72,158 77,172 85,189 93,198 99,205 105,213 111,223 116,234 119,243"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="83,118 1,102 -6,117 74,128"/>
+ </cell>
+ <cell x="9" y="7" map="test_9_7.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="291,301 286,299 290,296 288,290 282,285 271,278 262,272 258,263 258,255 261,250 262,246 260,236 258,227 254,217 252,209 247,195 244,186 243,176 246,167 242,151 238,136 234,130 229,123 215,110 208,103 202,95 197,87 194,79 192,75 180,67 171,59 165,49 162,44 160,40 147,32 136,28 123,27 114,28 105,25 87,17 75,13 67,10 42,1 33,-4 31,-5 35,-6 41,-2 51,2 57,3 64,4 70,6 77,8 83,11 87,13 109,22 122,22 136,21 144,23 162,33 165,32 169,26 176,24 184,18 186,12 184,2 185,-3 191,-1 191,3 191,9 193,17 192,22 186,26 179,30 173,32 169,38 169,43 171,48 177,56 186,66 198,72 203,75 204,83 210,93 214,102 230,117 237,125 240,130 248,146 252,155 255,165 255,171 254,187 253,192 255,200 259,207 261,223 265,227 268,236 273,244 269,259 270,267 273,270 277,272 281,276 292,287 297,295 295,299"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="263,249 261,241 254,242 247,242 228,234 216,232 206,232 187,232 180,228 175,225 170,216 165,210 157,204 155,198 158,192 157,188 153,179 148,172 137,155 130,147 121,139 114,133 101,123 89,113 79,104 59,93 47,85 39,80 25,79 14,82 3,83 -5,81 -3,84 -1,88 6,90 13,90 23,86 29,84 38,86 48,90 51,93 66,104 74,108 81,115 98,127 104,131 110,136 120,145 131,158 140,168 145,176 151,185 150,200 147,205 154,212 162,216 168,221 173,227 175,232 189,238 196,240 204,241 222,239 228,242 235,246 245,249 262,249"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="203,92 192,88 180,87 169,87 163,92 174,102 187,110 198,117 219,124 226,129 232,137 239,147 242,149 244,145 239,140 234,136 230,130 226,125 216,116 209,114 200,112 191,107 183,102 178,99 175,96 177,94 184,94 192,94 200,95 204,96"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="165,93 156,95 148,92 136,89 130,89 115,85 97,77 85,78 76,81 62,85 50,86 47,88 55,90 60,90 71,89 80,86 90,83 98,82 114,85 115,89 126,91 138,94 151,97 158,99 165,98"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="115,88 95,81 101,79 118,88"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="38,300 24,301 -2,292 -2,284 5,284 18,291 31,294 40,298"/>
+ </cell>
  <cell x="0" y="8" map="test_0_8.tmx"/>
  <cell x="1" y="8" map="test_1_8.tmx"/>
  <cell x="2" y="8" map="test_2_8.tmx"/>
@@ -427,7 +590,10 @@
   <lot x="114" y="282" level="0" width="2" height="2" map="../buildings/quietlerlyn/Exterior/WE_Powerline.tbx"/>
  </cell>
  <cell x="8" y="8" map="test_8_8.tmx"/>
- <cell x="9" y="8" map="test_9_8.tmx"/>
+ <cell x="9" y="8" map="test_9_8.tmx">
+  <object group="DeepForest" type="DeepForest" x="0" y="0" level="0" width="300" height="300"/>
+  <object group="Nav" type="Nav" level="0" geometry="polygon" points="27,0 38,-3 41,0 55,3 69,8 99,14 115,20 139,30 148,33 163,33 190,32 203,33 212,39 233,45 242,48 250,50 264,54 275,58 280,60 278,51 280,46 283,34 281,24 281,10 286,2 288,-1 293,-1 292,3 291,8 290,16 290,24 289,31 289,38 287,47 283,53 287,63 294,68 297,71 302,73 300,77 294,75 290,73 287,68 281,65 276,66 265,62 243,58 226,53 218,49 204,45 189,39 177,41 155,42 139,40 126,32 98,22 83,20 74,17 57,12 40,9 31,3"/>
+ </cell>
  <cell x="0" y="9" map="test_0_9.tmx"/>
  <cell x="1" y="9" map="test_1_9.tmx"/>
  <cell x="2" y="9" map="test_2_9.tmx"/>

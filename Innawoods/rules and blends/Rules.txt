@@ -1813,26 +1813,26 @@ rule
     bitmap = 1
     color = 5 5 5
     tiles = [
-	pert_vegetation_indoor_01_08
-	pert_vegetation_indoor_01_09
-	pert_vegetation_indoor_01_10
-	pert_vegetation_indoor_01_11
-	pert_vegetation_indoor_01_12
-	pert_vegetation_indoor_01_13
-	pert_vegetation_indoor_01_14
-	pert_vegetation_indoor_01_15
-	pert_vegetation_indoor_01_16
-	pert_vegetation_indoor_01_17
-	pert_vegetation_indoor_01_18
-	pert_vegetation_indoor_01_19
-	pert_vegetation_indoor_01_20
-	pert_vegetation_indoor_01_21
-	pert_vegetation_indoor_01_22
-	pert_vegetation_indoor_01_23
-	pert_vegetation_indoor_01_24
-	pert_vegetation_indoor_01_25
-	pert_vegetation_indoor_01_26
-	pert_vegetation_indoor_01_27
+	aza_burnt_veg_08
+	aza_burnt_veg_09
+	aza_burnt_veg_10
+	aza_burnt_veg_11
+	aza_burnt_veg_12
+	aza_burnt_veg_13
+	aza_burnt_veg_14
+	aza_burnt_veg_15
+	aza_burnt_veg_16
+	aza_burnt_veg_17
+	aza_burnt_veg_18
+	aza_burnt_veg_19
+	aza_burnt_veg_20
+	aza_burnt_veg_21
+	aza_burnt_veg_22
+	aza_burnt_veg_23
+	aza_burnt_veg_24
+	aza_burnt_veg_25
+	aza_burnt_veg_26
+	aza_burnt_veg_27
 	fencing_burnt_01_16
 	fencing_burnt_01_17
 	fencing_burnt_01_18
@@ -1850,30 +1850,30 @@ rule
     bitmap = 1
     color = 55 5 5
     tiles = [
-	pert_vegetation_indoor_01_08
-	pert_vegetation_indoor_01_12
-	pert_vegetation_indoor_01_16
-	pert_vegetation_indoor_01_20
-	pert_vegetation_indoor_01_24
+	aza_burnt_veg_08
+	aza_burnt_veg_12
+	aza_burnt_veg_16
+	aza_burnt_veg_20
+	aza_burnt_veg_24
 	Ash
 	Ash
 	Ash
-	pert_vegetation_indoor_01_32
-	pert_vegetation_indoor_01_33
-	pert_vegetation_indoor_01_35
-	pert_vegetation_indoor_01_34
-	pert_vegetation_indoor_01_36
-	pert_vegetation_indoor_01_37
-	pert_vegetation_indoor_01_38
-	pert_vegetation_indoor_01_39
-	pert_vegetation_indoor_01_40
-	pert_vegetation_indoor_01_41
-	pert_vegetation_indoor_01_42
-	pert_vegetation_indoor_01_43
-	pert_vegetation_indoor_01_44
-	pert_vegetation_indoor_01_47
-	pert_vegetation_indoor_01_45
-	pert_vegetation_indoor_01_46
+	aza_burnt_veg_32
+	aza_burnt_veg_33
+	aza_burnt_veg_35
+	aza_burnt_veg_34
+	aza_burnt_veg_36
+	aza_burnt_veg_37
+	aza_burnt_veg_38
+	aza_burnt_veg_39
+	aza_burnt_veg_40
+	aza_burnt_veg_41
+	aza_burnt_veg_42
+	aza_burnt_veg_43
+	aza_burnt_veg_44
+	aza_burnt_veg_47
+	aza_burnt_veg_45
+	aza_burnt_veg_46
     ]
     layer = 0_Vegetation
 }
