@@ -1,0 +1,12 @@
+module qlTheForest {
+	imports {
+		Base
+	}
+	
+	item WiseGnomeEyes {
+        DisplayCategory = Relic,
+        Weight = 0.3,
+        DisplayName = Ancient Wise Gnome's eyes,
+        Icon = WiseGnomeEyes,
+    }
+}

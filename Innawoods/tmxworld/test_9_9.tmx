@@ -529,621 +529,621 @@
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fencing_01.png" width="512" height="2048"/>
  </tileset>
  <tileset firstgid="14494" name="fencing_burnt_01" tilewidth="64" tileheight="128">
-  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fencing_burnt_01.png" width="512" height="1024"/>
+  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fencing_burnt_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="14558" name="fencing_damaged_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="14622" name="fencing_damaged_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fencing_damaged_01.png" width="512" height="3072"/>
  </tileset>
- <tileset firstgid="14750" name="fencing_damaged_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="14814" name="fencing_damaged_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fencing_damaged_02.png" width="512" height="3072"/>
  </tileset>
- <tileset firstgid="14942" name="fixtures_bathroom_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15006" name="fixtures_bathroom_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_bathroom_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="15022" name="fixtures_bathroom_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="15086" name="fixtures_bathroom_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_bathroom_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="15086" name="fixtures_counters_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15150" name="fixtures_counters_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_counters_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="15214" name="fixtures_doors_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15278" name="fixtures_doors_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_doors_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="15342" name="fixtures_doors_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="15406" name="fixtures_doors_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_doors_02.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="15470" name="fixtures_doors_fences_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15534" name="fixtures_doors_fences_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_doors_fences_01.png" width="512" height="1920"/>
  </tileset>
- <tileset firstgid="15590" name="fixtures_doors_frames_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15654" name="fixtures_doors_frames_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_doors_frames_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="15654" name="fixtures_escalators_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15718" name="fixtures_escalators_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_escalators_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="15718" name="fixtures_fireplaces_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15782" name="fixtures_fireplaces_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_fireplaces_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="15798" name="fixtures_overlay_counters_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15862" name="fixtures_overlay_counters_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_overlay_counters_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="15926" name="fixtures_railings_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="15990" name="fixtures_railings_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_railings_01.png" width="512" height="2304"/>
  </tileset>
- <tileset firstgid="16070" name="fixtures_sinks_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16134" name="fixtures_sinks_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_sinks_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16134" name="fixtures_stairs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16198" name="fixtures_stairs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_stairs_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="16262" name="fixtures_windows_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16326" name="fixtures_windows_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_windows_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="16342" name="fixtures_windows_curtains_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16406" name="fixtures_windows_curtains_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_windows_curtains_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="16470" name="fixtures_windows_curtains_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="16534" name="fixtures_windows_curtains_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_windows_curtains_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16534" name="fixtures_windows_detailing_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16598" name="fixtures_windows_detailing_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/fixtures_windows_detailing_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16598" name="floors_burnt_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16662" name="floors_burnt_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_burnt_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16662" name="floors_exterior_natural_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16726" name="floors_exterior_natural_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_exterior_natural_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16726" name="floors_exterior_street_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16790" name="floors_exterior_street_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_exterior_street_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16790" name="floors_exterior_tilesandstone_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16854" name="floors_exterior_tilesandstone_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_exterior_tilesandstone_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16854" name="floors_interior_carpet_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16918" name="floors_interior_carpet_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_interior_carpet_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="16918" name="floors_interior_tilesandwood_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="16982" name="floors_interior_tilesandwood_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_interior_tilesandwood_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="17046" name="floors_rugs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17110" name="floors_rugs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/floors_rugs_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="17174" name="food_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17238" name="food_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/food_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="17302" name="food_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="17366" name="food_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/food_02.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="17430" name="foraging_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17494" name="foraging_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/foraging_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="17494" name="furniture_bedding_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17558" name="furniture_bedding_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_bedding_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="17622" name="furniture_seating_indoor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17686" name="furniture_seating_indoor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_seating_indoor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="17686" name="furniture_seating_indoor_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="17750" name="furniture_seating_indoor_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_seating_indoor_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="17750" name="furniture_seating_indoor_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="17814" name="furniture_seating_indoor_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_seating_indoor_03.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="17830" name="furniture_seating_outdoor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17894" name="furniture_seating_outdoor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_seating_outdoor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="17894" name="furniture_shelving_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="17958" name="furniture_shelving_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_shelving_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="17958" name="furniture_storage_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18022" name="furniture_storage_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_storage_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18022" name="furniture_storage_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="18086" name="furniture_storage_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_storage_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18086" name="furniture_tables_high_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18150" name="furniture_tables_high_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_tables_high_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18150" name="furniture_tables_low_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18214" name="furniture_tables_low_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/furniture_tables_low_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18214" name="industry_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18278" name="industry_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18278" name="industry_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="18342" name="industry_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_02.png" width="512" height="4096"/>
  </tileset>
- <tileset firstgid="18534" name="industry_bunker_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18598" name="industry_bunker_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_bunker_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="18614" name="industry_railroad_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18678" name="industry_railroad_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_railroad_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18678" name="industry_railroad_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="18742" name="industry_railroad_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_railroad_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18742" name="industry_railroad_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="18806" name="industry_railroad_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_railroad_03.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18806" name="industry_railroad_04" tilewidth="64" tileheight="128">
+ <tileset firstgid="18870" name="industry_railroad_04" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_railroad_04.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18870" name="industry_railroad_05" tilewidth="64" tileheight="128">
+ <tileset firstgid="18934" name="industry_railroad_05" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_railroad_05.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="18934" name="industry_trucks_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="18998" name="industry_trucks_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_trucks_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="19014" name="industry_trucks_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="19078" name="industry_trucks_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/industry_trucks_02.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="19094" name="invisible_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19158" name="invisible_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/invisible_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19158" name="lighting_indoor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19222" name="lighting_indoor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19222" name="lighting_indoor_01_blue" tilewidth="64" tileheight="128">
+ <tileset firstgid="19286" name="lighting_indoor_01_blue" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_blue.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19286" name="lighting_indoor_01_cool" tilewidth="64" tileheight="128">
+ <tileset firstgid="19350" name="lighting_indoor_01_cool" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_cool.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19350" name="lighting_indoor_01_green" tilewidth="64" tileheight="128">
+ <tileset firstgid="19414" name="lighting_indoor_01_green" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_green.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19414" name="lighting_indoor_01_red" tilewidth="64" tileheight="128">
+ <tileset firstgid="19478" name="lighting_indoor_01_red" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_red.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19478" name="lighting_indoor_01_softpurple" tilewidth="64" tileheight="128">
+ <tileset firstgid="19542" name="lighting_indoor_01_softpurple" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_softpurple.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19542" name="lighting_indoor_01_warm" tilewidth="64" tileheight="128">
+ <tileset firstgid="19606" name="lighting_indoor_01_warm" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_indoor_01_warm.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19606" name="lighting_outdoor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19670" name="lighting_outdoor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/lighting_outdoor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19670" name="location_barn_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19734" name="location_barn_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_barn_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19734" name="location_business_bank_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19798" name="location_business_bank_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_business_bank_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19798" name="location_business_distillery_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="19862" name="location_business_distillery_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_business_distillery_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="19926" name="location_business_machinery" tilewidth="64" tileheight="128">
+ <tileset firstgid="19990" name="location_business_machinery" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_business_machinery.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="19990" name="location_business_machinery_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20054" name="location_business_machinery_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_business_machinery_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="20054" name="location_business_office_generic_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20118" name="location_business_office_generic_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_business_office_generic_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="20118" name="location_community_cemetary_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20182" name="location_community_cemetary_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_cemetary_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="20198" name="location_community_church_small_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20262" name="location_community_church_small_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_church_small_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="20326" name="location_community_church_small_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="20390" name="location_community_church_small_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_church_small_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="20390" name="location_community_medical_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20454" name="location_community_medical_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_medical_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="20518" name="location_community_park_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20582" name="location_community_park_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_park_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="20598" name="location_community_police_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20662" name="location_community_police_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_police_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="20662" name="location_community_school_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20726" name="location_community_school_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_community_school_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="20726" name="location_entertainment_gallery_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="20790" name="location_entertainment_gallery_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_entertainment_gallery_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="20854" name="location_entertainment_gallery_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="20918" name="location_entertainment_gallery_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_entertainment_gallery_02.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="20982" name="location_entertainment_theatre_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21046" name="location_entertainment_theatre_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_entertainment_theatre_01.png" width="512" height="4096"/>
  </tileset>
- <tileset firstgid="21238" name="location_farm_accesories_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21302" name="location_farm_accesories_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_farm_accesories_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="21318" name="location_hospitality_sunstarmotel_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21382" name="location_hospitality_sunstarmotel_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_hospitality_sunstarmotel_01.png" width="512" height="1152"/>
  </tileset>
- <tileset firstgid="21390" name="location_hospitality_sunstarmotel_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="21454" name="location_hospitality_sunstarmotel_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_hospitality_sunstarmotel_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21454" name="location_military_generic_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21518" name="location_military_generic_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_military_generic_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21518" name="location_military_knox_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21582" name="location_military_knox_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_military_knox_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21582" name="location_military_tent_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21646" name="location_military_tent_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_military_tent_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="21710" name="location_restaurant_bar_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21774" name="location_restaurant_bar_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_bar_01.png" width="512" height="1536"/>
  </tileset>
- <tileset firstgid="21806" name="location_restaurant_diner_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21870" name="location_restaurant_diner_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_diner_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21870" name="location_restaurant_generic_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21934" name="location_restaurant_generic_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_generic_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21934" name="location_restaurant_pie_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="21998" name="location_restaurant_pie_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_pie_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="21998" name="location_restaurant_pileocrepe_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22062" name="location_restaurant_pileocrepe_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_pileocrepe_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22062" name="location_restaurant_pizzawhirled_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22126" name="location_restaurant_pizzawhirled_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_pizzawhirled_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="22190" name="location_restaurant_seahorse_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22254" name="location_restaurant_seahorse_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_seahorse_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="22318" name="location_restaurant_spiffos_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22382" name="location_restaurant_spiffos_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_spiffos_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="22398" name="location_restaurant_spiffos_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="22462" name="location_restaurant_spiffos_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_spiffos_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22462" name="location_restaurant_spiffos_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="22526" name="location_restaurant_spiffos_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_restaurant_spiffos_03.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22526" name="location_services_beauty_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22590" name="location_services_beauty_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_services_beauty_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="22606" name="location_sewer_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22670" name="location_sewer_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_sewer_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22670" name="location_shop_accessories_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22734" name="location_shop_accessories_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_accessories_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22734" name="location_shop_accessories_genericsigns_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22798" name="location_shop_accessories_genericsigns_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_accessories_genericsigns_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="22862" name="location_shop_bargNclothes_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22926" name="location_shop_bargNclothes_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_bargNclothes_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22926" name="location_shop_fossoil_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="22990" name="location_shop_fossoil_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_fossoil_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="22990" name="location_shop_gas2go_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23054" name="location_shop_gas2go_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_gas2go_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="23054" name="location_shop_generic_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23118" name="location_shop_generic_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_generic_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="23182" name="location_shop_greenes_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23246" name="location_shop_greenes_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_greenes_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="23262" name="location_shop_mall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23326" name="location_shop_mall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_mall_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="23390" name="location_shop_mall_signs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23454" name="location_shop_mall_signs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_mall_signs_01.png" width="512" height="2304"/>
  </tileset>
- <tileset firstgid="23534" name="location_shop_mall_signs_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="23598" name="location_shop_mall_signs_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_mall_signs_02.png" width="512" height="2304"/>
  </tileset>
- <tileset firstgid="23678" name="location_shop_zippee_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23742" name="location_shop_zippee_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_shop_zippee_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="23742" name="location_trailer_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="23806" name="location_trailer_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_trailer_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="23806" name="location_trailer_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="23870" name="location_trailer_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/location_trailer_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="23870" name="missing_tileset_666" tilewidth="64" tileheight="128">
+ <tileset firstgid="23934" name="missing_tileset_666" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/missing_tileset_666.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="23934" name="mod_graffiti_north" tilewidth="64" tileheight="128">
+ <tileset firstgid="23998" name="mod_graffiti_north" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_north.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24062" name="mod_graffiti_style2_north" tilewidth="64" tileheight="128">
+ <tileset firstgid="24126" name="mod_graffiti_style2_north" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_style2_north.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24190" name="mod_graffiti_style2_west" tilewidth="64" tileheight="128">
+ <tileset firstgid="24254" name="mod_graffiti_style2_west" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_style2_west.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24318" name="mod_graffiti_symbols_north" tilewidth="64" tileheight="128">
+ <tileset firstgid="24382" name="mod_graffiti_symbols_north" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_symbols_north.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24446" name="mod_graffiti_symbols_west" tilewidth="64" tileheight="128">
+ <tileset firstgid="24510" name="mod_graffiti_symbols_west" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_symbols_west.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24574" name="mod_graffiti_west" tilewidth="64" tileheight="128">
+ <tileset firstgid="24638" name="mod_graffiti_west" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/mod_graffiti_west.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="24702" name="office_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="24766" name="office_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/office_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="24766" name="overlay_blood_fence_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="24830" name="overlay_blood_fence_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_blood_fence_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="24830" name="overlay_blood_floor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="24894" name="overlay_blood_floor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_blood_floor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="24894" name="overlay_blood_wall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="24958" name="overlay_blood_wall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_blood_wall_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="24958" name="overlay_graffiti_wall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25022" name="overlay_graffiti_wall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_graffiti_wall_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="25086" name="overlay_grime_floor_01" tilewidth="64" tileheight="128">
-  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_grime_floor_01.png" width="512" height="1024"/>
+ <tileset firstgid="25150" name="overlay_grime_floor_01" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_grime_floor_01.png" width="512" height="1536"/>
  </tileset>
- <tileset firstgid="25150" name="overlay_grime_wall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25246" name="overlay_grime_wall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_grime_wall_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="25214" name="overlay_messages_wall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25310" name="overlay_messages_wall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/overlay_messages_wall_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="25278" name="papernotices_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25374" name="papernotices_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/papernotices_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="25342" name="props" tilewidth="64" tileheight="128">
+ <tileset firstgid="25438" name="props" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/props.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="25470" name="radio_tower" tilewidth="64" tileheight="128">
+ <tileset firstgid="25566" name="radio_tower" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/radio_tower.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="25598" name="recreational_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25694" name="recreational_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/recreational_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="25662" name="recreational_sports_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="25758" name="recreational_sports_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/recreational_sports_01.png" width="512" height="4096"/>
  </tileset>
- <tileset firstgid="25918" name="roofs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="26014" name="roofs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_01.png" width="512" height="1920"/>
  </tileset>
- <tileset firstgid="26038" name="roofs_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="26134" name="roofs_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_02.png" width="512" height="1920"/>
  </tileset>
- <tileset firstgid="26158" name="roofs_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="26254" name="roofs_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_03.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="26286" name="roofs_04" tilewidth="64" tileheight="128">
+ <tileset firstgid="26382" name="roofs_04" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_04.png" width="512" height="1920"/>
  </tileset>
- <tileset firstgid="26406" name="roofs_05" tilewidth="64" tileheight="128">
-  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_05.png" width="512" height="1920"/>
+ <tileset firstgid="26502" name="roofs_05" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_05.png" width="512" height="2944"/>
  </tileset>
- <tileset firstgid="26526" name="roofs_accents_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="26686" name="roofs_accents_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_accents_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="26606" name="roofs_burnt_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="26766" name="roofs_burnt_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/roofs_burnt_01.png" width="512" height="1920"/>
  </tileset>
- <tileset firstgid="26726" name="royalewithcheese" tilewidth="64" tileheight="128">
+ <tileset firstgid="26886" name="royalewithcheese" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/royalewithcheese.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="26790" name="security_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="26950" name="security_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/security_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="26870" name="signs_miscbrands_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="27030" name="signs_miscbrands_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_miscbrands_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="26998" name="signs_one-off_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="27158" name="signs_one-off_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_one-off_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="27126" name="signs_one-off_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="27286" name="signs_one-off_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_one-off_02.png" width="512" height="8192"/>
  </tileset>
- <tileset firstgid="27638" name="signs_one-off_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="27798" name="signs_one-off_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_one-off_03.png" width="512" height="8192"/>
  </tileset>
- <tileset firstgid="28150" name="signs_one-off_04" tilewidth="64" tileheight="128">
+ <tileset firstgid="28310" name="signs_one-off_04" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_one-off_04.png" width="512" height="8192"/>
  </tileset>
- <tileset firstgid="28662" name="signs_one-off_05" tilewidth="64" tileheight="128">
+ <tileset firstgid="28822" name="signs_one-off_05" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/signs_one-off_05.png" width="512" height="12288"/>
  </tileset>
- <tileset firstgid="29430" name="stashes_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="29590" name="stashes_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/stashes_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="29558" name="street_curbs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="29718" name="street_curbs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="29638" name="street_curbs_01_blend_dark_grass" tilewidth="64" tileheight="128">
+ <tileset firstgid="29798" name="street_curbs_01_blend_dark_grass" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_dark_grass.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="29726" name="street_curbs_01_blend_dirt" tilewidth="64" tileheight="128">
+ <tileset firstgid="29886" name="street_curbs_01_blend_dirt" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_dirt.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="29814" name="street_curbs_01_blend_gravel" tilewidth="64" tileheight="128">
+ <tileset firstgid="29974" name="street_curbs_01_blend_gravel" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_gravel.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="29902" name="street_curbs_01_blend_light_grass" tilewidth="64" tileheight="128">
+ <tileset firstgid="30062" name="street_curbs_01_blend_light_grass" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_light_grass.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="29990" name="street_curbs_01_blend_medium_grass" tilewidth="64" tileheight="128">
+ <tileset firstgid="30150" name="street_curbs_01_blend_medium_grass" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_medium_grass.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="30078" name="street_curbs_01_blend_sand" tilewidth="64" tileheight="128">
+ <tileset firstgid="30238" name="street_curbs_01_blend_sand" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_sand.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="30166" name="street_curbs_01_blend_street" tilewidth="64" tileheight="128">
+ <tileset firstgid="30326" name="street_curbs_01_blend_street" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_blend_street.png" width="512" height="1408"/>
  </tileset>
- <tileset firstgid="30254" name="street_curbs_01_diag" tilewidth="64" tileheight="128">
+ <tileset firstgid="30414" name="street_curbs_01_diag" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_diag.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="30334" name="street_curbs_01_diag_2" tilewidth="64" tileheight="128">
+ <tileset firstgid="30494" name="street_curbs_01_diag_2" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_curbs_01_diag_2.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="30414" name="street_decoration_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="30574" name="street_decoration_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_decoration_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="30542" name="street_roadsigns_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="30702" name="street_roadsigns_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_roadsigns_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="30622" name="street_trafficlines_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="30782" name="street_trafficlines_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_trafficlines_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="30686" name="street_trafficlines_curb_white_faded" tilewidth="64" tileheight="128">
+ <tileset firstgid="30846" name="street_trafficlines_curb_white_faded" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_trafficlines_curb_white_faded.png" width="512" height="2560"/>
  </tileset>
- <tileset firstgid="30846" name="street_trafficlines_curb_white_full" tilewidth="64" tileheight="128">
+ <tileset firstgid="31006" name="street_trafficlines_curb_white_full" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_trafficlines_curb_white_full.png" width="512" height="2560"/>
  </tileset>
- <tileset firstgid="31006" name="street_trafficlines_curb_yellow_faded" tilewidth="64" tileheight="128">
+ <tileset firstgid="31166" name="street_trafficlines_curb_yellow_faded" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_trafficlines_curb_yellow_faded.png" width="512" height="2560"/>
  </tileset>
- <tileset firstgid="31166" name="street_trafficlines_curb_yellow_full" tilewidth="64" tileheight="128">
+ <tileset firstgid="31326" name="street_trafficlines_curb_yellow_full" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/street_trafficlines_curb_yellow_full.png" width="512" height="2560"/>
  </tileset>
- <tileset firstgid="31326" name="trash&amp;junk_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="31486" name="trash&amp;junk_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/trash&amp;junk_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="31406" name="trash_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="31566" name="trash_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/trash_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31470" name="trash_walls_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="31630" name="trash_walls_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/trash_walls_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31534" name="trashcontainers_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="31694" name="trashcontainers_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/trashcontainers_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31598" name="tron_grime_blue" tilewidth="64" tileheight="128">
+ <tileset firstgid="31758" name="tron_grime_blue" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/tron_grime_blue.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31662" name="tron_grime_wall_blue" tilewidth="64" tileheight="128">
+ <tileset firstgid="31822" name="tron_grime_wall_blue" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/tron_grime_wall_blue.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31726" name="underground_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="31886" name="underground_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/underground_01.png" width="512" height="2560"/>
  </tileset>
- <tileset firstgid="31886" name="vegetation_farm_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32046" name="vegetation_farm_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_farm_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="31950" name="vegetation_farming_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32110" name="vegetation_farming_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_farming_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="32030" name="vegetation_foliage_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32190" name="vegetation_foliage_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_foliage_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32094" name="vegetation_groundcover_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32254" name="vegetation_groundcover_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_groundcover_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32158" name="vegetation_indoor_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32318" name="vegetation_indoor_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_indoor_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32222" name="vegetation_ornamental_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32382" name="vegetation_ornamental_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_ornamental_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32286" name="vegetation_trees_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32446" name="vegetation_trees_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_trees_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32350" name="vegetation_wall_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32510" name="vegetation_wall_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/vegetation_wall_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32414" name="walls_burnt_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32574" name="walls_burnt_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_burnt_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="32478" name="walls_burnt_roofs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32638" name="walls_burnt_roofs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_burnt_roofs_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="32558" name="walls_commercial_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="32718" name="walls_commercial_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_commercial_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="32686" name="walls_commercial_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="32846" name="walls_commercial_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_commercial_02.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="32766" name="walls_commercial_03" tilewidth="64" tileheight="128">
-  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_commercial_03.png" width="512" height="1024"/>
+ <tileset firstgid="32926" name="walls_commercial_03" tilewidth="64" tileheight="128">
+  <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_commercial_03.png" width="512" height="1536"/>
  </tileset>
- <tileset firstgid="32830" name="walls_decoration_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="33022" name="walls_decoration_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_decoration_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="32958" name="walls_detailing_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="33150" name="walls_detailing_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_detailing_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="33086" name="walls_exterior_house_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="33278" name="walls_exterior_house_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_house_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="33150" name="walls_exterior_house_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="33342" name="walls_exterior_house_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_house_02.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="33278" name="walls_exterior_roofs_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="33470" name="walls_exterior_roofs_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33358" name="walls_exterior_roofs_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="33550" name="walls_exterior_roofs_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_02.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33438" name="walls_exterior_roofs_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="33630" name="walls_exterior_roofs_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_03.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33518" name="walls_exterior_roofs_04" tilewidth="64" tileheight="128">
+ <tileset firstgid="33710" name="walls_exterior_roofs_04" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_04.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33598" name="walls_exterior_roofs_05" tilewidth="64" tileheight="128">
+ <tileset firstgid="33790" name="walls_exterior_roofs_05" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_05.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33678" name="walls_exterior_roofs_06" tilewidth="64" tileheight="128">
+ <tileset firstgid="33870" name="walls_exterior_roofs_06" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_06.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="33742" name="walls_exterior_roofs_07" tilewidth="64" tileheight="128">
+ <tileset firstgid="33934" name="walls_exterior_roofs_07" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_07.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33822" name="walls_exterior_roofs_08" tilewidth="64" tileheight="128">
+ <tileset firstgid="34014" name="walls_exterior_roofs_08" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_08.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="33902" name="walls_exterior_roofs_09" tilewidth="64" tileheight="128">
+ <tileset firstgid="34094" name="walls_exterior_roofs_09" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_roofs_09.png" width="512" height="2688"/>
  </tileset>
- <tileset firstgid="34070" name="walls_exterior_wooden_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34262" name="walls_exterior_wooden_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_wooden_01.png" width="512" height="1280"/>
  </tileset>
- <tileset firstgid="34150" name="walls_exterior_wooden_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="34342" name="walls_exterior_wooden_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_exterior_wooden_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34214" name="walls_garage_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34406" name="walls_garage_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_garage_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34278" name="walls_garage_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="34470" name="walls_garage_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_garage_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34342" name="walls_interior_bathroom_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34534" name="walls_interior_bathroom_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_bathroom_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34406" name="walls_interior_cutaways_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34598" name="walls_interior_cutaways_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_cutaways_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="34534" name="walls_interior_detailing_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34726" name="walls_interior_detailing_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_detailing_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="34662" name="walls_interior_house_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="34854" name="walls_interior_house_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_house_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34726" name="walls_interior_house_02" tilewidth="64" tileheight="128">
+ <tileset firstgid="34918" name="walls_interior_house_02" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_house_02.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34790" name="walls_interior_house_03" tilewidth="64" tileheight="128">
+ <tileset firstgid="34982" name="walls_interior_house_03" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_house_03.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="34854" name="walls_interior_house_04" tilewidth="64" tileheight="128">
+ <tileset firstgid="35046" name="walls_interior_house_04" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_interior_house_04.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="34982" name="walls_special_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="35174" name="walls_special_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/walls_special_01.png" width="512" height="2048"/>
  </tileset>
- <tileset firstgid="35110" name="weapons_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="35302" name="weapons_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/weapons_01.png" width="512" height="1024"/>
  </tileset>
- <tileset firstgid="35174" name="yourname_posters_01" tilewidth="64" tileheight="128">
+ <tileset firstgid="35366" name="yourname_posters_01" tilewidth="64" tileheight="128">
   <image source="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/Tiles/yourname_posters_01.png" width="512" height="1024"/>
  </tileset>
  <layer name="0_Floor" width="300" height="300">
@@ -1178,60 +1178,18 @@
  </layer>
  <objectgroup name="0_Lots" width="300" height="300"/>
  <bmp-settings version="1">
-  <rules-file file="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/WorldEd/Rules.txt"/>
-  <blends-file file="../../../../../../../Program Files (x86)/Steam/steamapps/common/Project Zomboid Modding Tools/WorldEd/Blends.txt"/>
+  <rules-file file="../rules and blends/Rules.txt"/>
+  <blends-file file="../rules and blends/Blends.txt"/>
   <edges-everywhere value="false"/>
   <aliases>
-   <alias name="alien_lightgrass_n" tiles="alien_blends_natural_01_056 alien_blends_natural_01_060"/>
-   <alias name="alien_lightgrass_w" tiles="alien_blends_natural_01_057 alien_blends_natural_01_061"/>
-   <alias name="alien_lightgrass_e" tiles="alien_blends_natural_01_058 alien_blends_natural_01_062"/>
-   <alias name="alien_lightgrass_s" tiles="alien_blends_natural_01_059 alien_blends_natural_01_063"/>
-   <alias name="alien_medgrass_n" tiles="alien_blends_natural_01_040 alien_blends_natural_01_044"/>
-   <alias name="alien_medgrass_w" tiles="alien_blends_natural_01_041 alien_blends_natural_01_045"/>
-   <alias name="alien_medgrass_e" tiles="alien_blends_natural_01_042 alien_blends_natural_01_046"/>
-   <alias name="alien_medgrass_s" tiles="alien_blends_natural_01_043 alien_blends_natural_01_047"/>
-   <alias name="alien_darkgrass_n" tiles="alien_blends_natural_01_024 alien_blends_natural_01_028"/>
-   <alias name="alien_darkgrass_w" tiles="alien_blends_natural_01_025 alien_blends_natural_01_029"/>
-   <alias name="alien_darkgrass_e" tiles="alien_blends_natural_01_026 alien_blends_natural_01_030"/>
-   <alias name="alien_darkgrass_s" tiles="alien_blends_natural_01_027 alien_blends_natural_01_031"/>
-   <alias name="alien_sand_n" tiles="alien_blends_natural_01_008 alien_blends_natural_01_012"/>
-   <alias name="alien_sand_w" tiles="alien_blends_natural_01_009 alien_blends_natural_01_013"/>
-   <alias name="alien_sand_e" tiles="alien_blends_natural_01_010 alien_blends_natural_01_014"/>
-   <alias name="alien_sand_s" tiles="alien_blends_natural_01_011 alien_blends_natural_01_015"/>
-   <alias name="alien_dirt" tiles="alien_blends_natural_01_064 alien_blends_natural_01_069 alien_blends_natural_01_070 alien_blends_natural_01_071"/>
-   <alias name="alien_sand" tiles="alien_blends_natural_01_000 alien_blends_natural_01_005 alien_blends_natural_01_006 alien_blends_natural_01_007"/>
-   <alias name="alien_sandblends" tiles="alien_blends_natural_01_008 alien_blends_natural_01_009 alien_blends_natural_01_010 alien_blends_natural_01_011 alien_blends_natural_01_001 alien_blends_natural_01_004 alien_blends_natural_01_003 alien_blends_natural_01_002"/>
-   <alias name="alien_darkgrassblends" tiles="alien_blends_natural_01_024 alien_blends_natural_01_025 alien_blends_natural_01_026 alien_blends_natural_01_027 alien_blends_natural_01_017 alien_blends_natural_01_020 alien_blends_natural_01_019 alien_blends_natural_01_018"/>
-   <alias name="alien_medgrassblends" tiles="alien_blends_natural_01_040 alien_blends_natural_01_041 alien_blends_natural_01_042 alien_blends_natural_01_043 alien_blends_natural_01_033 alien_blends_natural_01_036 alien_blends_natural_01_035 alien_blends_natural_01_034"/>
-   <alias name="alien_lightgrassblends" tiles="alien_blends_natural_01_056 alien_blends_natural_01_057 alien_blends_natural_01_058 alien_blends_natural_01_059 alien_blends_natural_01_049 alien_blends_natural_01_052 alien_blends_natural_01_051 alien_blends_natural_01_059"/>
-   <alias name="alien_darkgrass" tiles="alien_blends_natural_01_016 alien_blends_natural_01_021 alien_blends_natural_01_022 alien_blends_natural_01_023"/>
-   <alias name="alien_medgrass" tiles="alien_blends_natural_01_032 alien_blends_natural_01_037 alien_blends_natural_01_038 alien_blends_natural_01_039"/>
-   <alias name="alien_lightgrass" tiles="alien_blends_natural_01_048 alien_blends_natural_01_053 alien_blends_natural_01_054 alien_blends_natural_01_055"/>
-   <alias name="desert_lightgrass_n" tiles="aza_desert_blends_natural_01_056 aza_desert_blends_natural_01_060"/>
-   <alias name="desert_lightgrass_w" tiles="aza_desert_blends_natural_01_057 aza_desert_blends_natural_01_061"/>
-   <alias name="desert_lightgrass_e" tiles="aza_desert_blends_natural_01_058 aza_desert_blends_natural_01_062"/>
-   <alias name="desert_lightgrass_s" tiles="aza_desert_blends_natural_01_059 aza_desert_blends_natural_01_063"/>
-   <alias name="desert_medgrass_n" tiles="aza_desert_blends_natural_01_040 aza_desert_blends_natural_01_044"/>
-   <alias name="desert_medgrass_w" tiles="aza_desert_blends_natural_01_041 aza_desert_blends_natural_01_045"/>
-   <alias name="desert_medgrass_e" tiles="aza_desert_blends_natural_01_042 aza_desert_blends_natural_01_046"/>
-   <alias name="desert_medgrass_s" tiles="aza_desert_blends_natural_01_043 aza_desert_blends_natural_01_047"/>
-   <alias name="desert_darkgrass_n" tiles="aza_desert_blends_natural_01_024 aza_desert_blends_natural_01_028"/>
-   <alias name="desert_darkgrass_w" tiles="aza_desert_blends_natural_01_025 aza_desert_blends_natural_01_029"/>
-   <alias name="desert_darkgrass_e" tiles="aza_desert_blends_natural_01_026 aza_desert_blends_natural_01_030"/>
-   <alias name="desert_darkgrass_s" tiles="aza_desert_blends_natural_01_027 aza_desert_blends_natural_01_031"/>
-   <alias name="desert_sand_n" tiles="aza_desert_blends_natural_01_008 aza_desert_blends_natural_01_012"/>
-   <alias name="desert_sand_w" tiles="aza_desert_blends_natural_01_009 aza_desert_blends_natural_01_013"/>
-   <alias name="desert_sand_e" tiles="aza_desert_blends_natural_01_010 aza_desert_blends_natural_01_014"/>
-   <alias name="desert_sand_s" tiles="aza_desert_blends_natural_01_011 aza_desert_blends_natural_01_015"/>
-   <alias name="desert_dirt" tiles="aza_desert_blends_natural_01_064 aza_desert_blends_natural_01_069 aza_desert_blends_natural_01_070 aza_desert_blends_natural_01_071"/>
-   <alias name="desert_sand" tiles="aza_desert_blends_natural_01_000 aza_desert_blends_natural_01_005 aza_desert_blends_natural_01_006 aza_desert_blends_natural_01_007"/>
-   <alias name="desert_sandblends" tiles="aza_desert_blends_natural_01_008 aza_desert_blends_natural_01_009 aza_desert_blends_natural_01_010 aza_desert_blends_natural_01_011 aza_desert_blends_natural_01_001 aza_desert_blends_natural_01_004 aza_desert_blends_natural_01_003 aza_desert_blends_natural_01_002"/>
-   <alias name="desert_darkgrassblends" tiles="aza_desert_blends_natural_01_024 aza_desert_blends_natural_01_025 aza_desert_blends_natural_01_026 aza_desert_blends_natural_01_027 aza_desert_blends_natural_01_017 aza_desert_blends_natural_01_020 aza_desert_blends_natural_01_019 aza_desert_blends_natural_01_018"/>
-   <alias name="desert_medgrassblends" tiles="aza_desert_blends_natural_01_040 aza_desert_blends_natural_01_041 aza_desert_blends_natural_01_042 aza_desert_blends_natural_01_043 aza_desert_blends_natural_01_033 aza_desert_blends_natural_01_036 aza_desert_blends_natural_01_035 aza_desert_blends_natural_01_034"/>
-   <alias name="desert_lightgrassblends" tiles="aza_desert_blends_natural_01_056 aza_desert_blends_natural_01_057 aza_desert_blends_natural_01_058 aza_desert_blends_natural_01_059 aza_desert_blends_natural_01_049 aza_desert_blends_natural_01_052 aza_desert_blends_natural_01_051 aza_desert_blends_natural_01_059"/>
-   <alias name="desert_darkgrass" tiles="aza_desert_blends_natural_01_016 aza_desert_blends_natural_01_021 aza_desert_blends_natural_01_022 aza_desert_blends_natural_01_023"/>
-   <alias name="desert_medgrass" tiles="aza_desert_blends_natural_01_032 aza_desert_blends_natural_01_037 aza_desert_blends_natural_01_038 aza_desert_blends_natural_01_039"/>
-   <alias name="desert_lightgrass" tiles="aza_desert_blends_natural_01_048 aza_desert_blends_natural_01_053 aza_desert_blends_natural_01_054 aza_desert_blends_natural_01_055"/>
+   <alias name="Ash" tiles="floors_burnt_01_001 floors_burnt_01_002"/>
+   <alias name="scorchedEarth" tiles="floors_burnt_01_000"/>
+   <alias name="CharredEarth" tiles="floors_burnt_01_008"/>
+   <alias name="CharredEarth_n" tiles="floors_burnt_01_016 floors_burnt_01_020"/>
+   <alias name="CharredEarth_e" tiles="floors_burnt_01_018 floors_burnt_01_022"/>
+   <alias name="CharredEarth_s" tiles="floors_burnt_01_019 floors_burnt_01_023"/>
+   <alias name="CharredEarth_w" tiles="floors_burnt_01_017 floors_burnt_01_021"/>
+   <alias name="CharredEarthblends" tiles="floors_burnt_01_009 floors_burnt_01_010 floors_burnt_01_011 floors_burnt_01_012 floors_burnt_01_016 floors_burnt_01_020 floors_burnt_01_017 floors_burnt_01_021 floors_burnt_01_019 floors_burnt_01_023 floors_burnt_01_018 floors_burnt_01_022"/>
    <alias name="lightgrass_n" tiles="blends_natural_01_056 blends_natural_01_060"/>
    <alias name="lightgrass_w" tiles="blends_natural_01_057 blends_natural_01_061"/>
    <alias name="lightgrass_e" tiles="blends_natural_01_058 blends_natural_01_062"/>
@@ -1255,7 +1213,6 @@
    <alias name="lightmedgrass" tiles="blends_grassoverlays_01_056 blends_grassoverlays_01_057 blends_grassoverlays_01_058 blends_grassoverlays_01_059 blends_grassoverlays_01_060 blends_grassoverlays_01_061"/>
    <alias name="lightshortgrass" tiles="blends_grassoverlays_01_064 blends_grassoverlays_01_065 blends_grassoverlays_01_066 blends_grassoverlays_01_067 blends_grassoverlays_01_068 blends_grassoverlays_01_069"/>
    <alias name="darklonggrass" tiles="blends_grassoverlays_01_000 blends_grassoverlays_01_001 blends_grassoverlays_01_002 blends_grassoverlays_01_003 blends_grassoverlays_01_004 blends_grassoverlays_01_005"/>
-   <alias name="rocks" tiles="aza_blends_rockoverlays_01_000 aza_blends_rockoverlays_01_001 aza_blends_rockoverlays_01_002 aza_blends_rockoverlays_01_003 aza_blends_rockoverlays_01_004 aza_blends_rockoverlays_01_005 aza_blends_rockoverlays_01_008 aza_blends_rockoverlays_01_009 aza_blends_rockoverlays_01_010 aza_blends_rockoverlays_01_011 aza_blends_rockoverlays_01_012 aza_blends_rockoverlays_01_013 aza_blends_rockoverlays_01_016 aza_blends_rockoverlays_01_017 aza_blends_rockoverlays_01_018 aza_blends_rockoverlays_01_019 aza_blends_rockoverlays_01_020"/>
    <alias name="darkmedgrass" tiles="blends_grassoverlays_01_008 blends_grassoverlays_01_009 blends_grassoverlays_01_010 blends_grassoverlays_01_011 blends_grassoverlays_01_012 blends_grassoverlays_01_013"/>
    <alias name="darkshortgrass" tiles="blends_grassoverlays_01_016 blends_grassoverlays_01_017 blends_grassoverlays_01_018 blends_grassoverlays_01_019 blends_grassoverlays_01_020 blends_grassoverlays_01_021"/>
    <alias name="street" tiles="blends_street_01_096 blends_street_01_101 blends_street_01_102 blends_street_01_103"/>
@@ -1272,8 +1229,11 @@
    <alias name="medgrass" tiles="blends_natural_01_032 blends_natural_01_037 blends_natural_01_038 blends_natural_01_039"/>
    <alias name="lightgrass" tiles="blends_natural_01_048 blends_natural_01_053 blends_natural_01_054 blends_natural_01_055"/>
    <alias name="water" tiles="blends_natural_02_000 blends_natural_02_005 blends_natural_02_006 blends_natural_02_007"/>
+   <alias name="moss" tiles="aza_the_forest_moss_blends_000 aza_the_forest_moss_blends_005 aza_the_forest_moss_blends_006 aza_the_forest_moss_blends_007"/>
   </aliases>
   <rules>
+   <rule label="Scorched Earth" bitmapIndex="0" color="160 0 0" tileChoices="scorchedEarth" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Charred Earth" bitmapIndex="0" color="180 0 0" tileChoices="CharredEarth" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Dark Grass" bitmapIndex="0" color="90 100 35" tileChoices="darkgrass" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Medium Grass" bitmapIndex="0" color="117 117 47" tileChoices="medgrass" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Light Grass" bitmapIndex="0" color="145 135 60" tileChoices="lightgrass" targetLayer="0_Floor" condition="0 0 0"/>
@@ -1286,36 +1246,15 @@
    <rule label="Dark Pothole" bitmapIndex="0" color="110 100 100" tileChoices="blends_street_01_000" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Light Pothole" bitmapIndex="0" color="130 120 120" tileChoices="pothole" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Water" bitmapIndex="0" color="0 138 255" tileChoices="water" targetLayer="0_Floor" condition="0 0 0"/>
+   <rule label="Moss" bitmapIndex="0" color="5 5 255" tileChoices="moss" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="FarmLand" bitmapIndex="0" color="140 90 40" tileChoices="floors_exterior_natural_01_017" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Whitepaint" bitmapIndex="0" color="255 255 255" tileChoices="e_exterior_snow_1_001" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Woodexterior" bitmapIndex="0" color="175 150 130" tileChoices="floors_interior_tilesandwood_01_052" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Rocks" bitmapIndex="0" color="175 130 130" tileChoices="floors_exterior_natural_01_011 floors_exterior_natural_01_010 floors_exterior_natural_01_009" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Tileexterior" bitmapIndex="0" color="140 145 115" tileChoices="floors_exterior_tilesandstone_01_005" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="digislime" bitmapIndex="0" color="100 102 103" tileChoices="aza_digislime_000 aza_digislime_001 aza_digislime_002 aza_digislime_003 aza_digislime_004 aza_digislime_005 aza_digislime_006 aza_digislime_007 aza_digislime_008 aza_digislime_009 aza_digislime_010 aza_digislime_011 aza_digislime_012 aza_digislime_013 aza_digislime_014 aza_digislime_024" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="corruption" bitmapIndex="0" color="100 102 107" tileChoices="aza_digislime_000 aza_digislime_001 aza_digislime_002 aza_digislime_003 aza_digislime_004 aza_digislime_005 aza_digislime_006 aza_digislime_007 aza_digislime_008 aza_digislime_009 aza_digislime_010 aza_digislime_011 aza_digislime_012 aza_digislime_013 aza_digislime_014 aza_digislime_024 aza_corrupteddatafloor1_001 aza_corrupteddatafloor1_002 aza_corrupteddatafloor1_003 aza_corrupteddatafloor1_004 aza_corrupteddatafloor1_005 aza_corrupteddatafloor1_006 aza_corrupteddatafloor1_007 aza_corrupteddatafloor1_008 aza_corrupteddatafloor1_009 aza_corrupteddatafloor1_010 aza_corrupteddatafloor1_012 aza_corrupteddatafloor1_013 aza_corrupteddatafloor1_014 aza_floor_studio_004 aza_floor_studio_004 aza_floor_studio_004 aza_floor_studio_004 aza_floor_studio_004 aza_floor_studio_004 aza_floor_studio_004" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="void" bitmapIndex="0" color="105 102 103" tileChoices="aza_floor_studio_004" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="Space" bitmapIndex="0" color="105 102 109" tileChoices="aza_spaaaace_001 aza_spaaaace_002 aza_spaaaace_003 aza_spaaaace_004 aza_spaaaace_005 aza_spaaaace_006 aza_spaaaace_007 aza_spaaaace_008 aza_spaaaace_009 aza_spaaaace_010 aza_spaaaace_011 aza_spaaaace_012 aza_spaaaace_013 aza_spaaaace_014" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="green tron floor 1" bitmapIndex="0" color="140 140 130" tileChoices="aza_tronfloor_006" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="yellow tron floor 1" bitmapIndex="0" color="140 140 125" tileChoices="aza_tronfloor_005" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="red tron floor 1" bitmapIndex="0" color="140 140 120" tileChoices="aza_tronfloor_004" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="pink tron floor 1" bitmapIndex="0" color="140 140 115" tileChoices="aza_tronfloor_003" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="purple tron floor 1" bitmapIndex="0" color="140 140 110" tileChoices="aza_tronfloor_010 aza_tronfloor_010 aza_tronfloor_010 aza_tronfloor_010 aza_tronfloor_010 aza_tronfloor_011 aza_tronfloor_011 aza_corrupteddatafloor1_013" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="blue tron floor 1" bitmapIndex="0" color="140 140 105" tileChoices="aza_tron_floor_new_007" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="cyan tron floor 1" bitmapIndex="0" color="140 140 100" tileChoices="aza_tronfloor_000" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="green tron floor 2" bitmapIndex="0" color="140 145 130" tileChoices="aza_tronfloor_014" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="yellow tron floor 2" bitmapIndex="0" color="140 145 125" tileChoices="aza_tronfloor_013" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="red tron floor 2" bitmapIndex="0" color="140 145 120" tileChoices="aza_tronfloor_012" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="pink tron floor 2" bitmapIndex="0" color="140 145 115" tileChoices="aza_tronfloor_011" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="purple tron floor 2" bitmapIndex="0" color="140 145 110" tileChoices="aza_tronfloor_010" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="blue tron floor 2" bitmapIndex="0" color="140 145 105" tileChoices="aza_tron_floor_new_007" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="cyan tron floor 2" bitmapIndex="0" color="140 145 100" tileChoices="aza_tronfloor_008" targetLayer="0_Floor" condition="0 0 0"/>
    <rule label="Pavementnew" bitmapIndex="0" color="130 110 110" tileChoices="floors_exterior_tilesandstone_01_006" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="rocks" bitmapIndex="1" color="150 105 105" tileChoices="rocks" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="Desert Trees" bitmapIndex="1" color="250 5 15" tileChoices="aza_deserttrees_000 aza_deserttrees_001 aza_deserttrees_002 aza_deserttrees_003 aza_deserttrees_004 aza_deserttrees_005" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="Nearby River" bitmapIndex="1" color="250 5 5" tileChoices="aza_deserttrees_000 aza_deserttrees_001 aza_deserttrees_002 aza_deserttrees_003 aza_deserttrees_004 aza_deserttrees_005 darklonggrass medlonggrass darkmedgrass medshortgrass d_generic_1_049 d_generic_1_050 d_generic_1_051 d_generic_1_052 d_generic_1_053 d_generic_1_054 d_generic_1_055 d_generic_1_048 d_generic_1_085 d_generic_1_080 d_generic_1_081 d_generic_1_082 d_generic_1_083 d_generic_1_084 d_generic_1_086 d_generic_1_087 d_generic_1_022 d_generic_1_023 d_generic_1_024 d_generic_1_025 d_generic_1_043 d_plants_1_016 d_plants_1_017 d_plants_1_018 d_plants_1_019 d_plants_1_020 d_plants_1_021 d_plants_1_022 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="Shapes" bitmapIndex="1" color="250 5 7" tileChoices="aza_tron_shapesframes_000 aza_tron_shapesframes_001 aza_tron_shapesframes_002 aza_tron_shapesframes_003 aza_tron_shapesframes_000 aza_tron_shapesframes_001 aza_tron_shapesframes_002 aza_tron_shapesframes_003 aza_tron_shapesframes_000 aza_tron_shapesframes_001 aza_tron_shapesframes_002 aza_tron_shapesframes_003 aza_tron_shapesframes_004 aza_tron_shapesframes_005 aza_tron_shapesframes_006 aza_tron_shapesframes_007" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="Trees" bitmapIndex="1" color="255 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="Trees + Dark grass Aza Edit" bitmapIndex="1" color="127 127 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 e_americanlinden_1_003 e_carolinasilverbell_1_003 e_cockspurhawthorn_1_003 e_dogwood_1_003 e_easternredbud_1_003 e_redmaple_1_003 e_riverbirch_1_003 e_yellowwood_1_003 darklonggrass darklonggrass darkmedgrass darkshortgrass darklonggrass darklonggrass darkmedgrass darkshortgrass d_plants_1_024 d_plants_1_025 d_plants_1_026 d_plants_1_027 d_plants_1_028 d_plants_1_029 d_plants_1_030 d_plants_1_031 vegetation_foliage_01_008 vegetation_foliage_01_009 vegetation_foliage_01_010 vegetation_foliage_01_011 vegetation_foliage_01_012 vegetation_foliage_01_013 vegetation_foliage_01_014 d_plants_1_016 d_plants_1_017 d_plants_1_018 d_plants_1_019 d_plants_1_020 d_plants_1_021 d_plants_1_022 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="Trees + Dark grass 2" bitmapIndex="1" color="127 127 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 e_americanlinden_1_003 e_carolinasilverbell_1_003 e_cockspurhawthorn_1_003 e_dogwood_1_003 e_easternredbud_1_003 e_redmaple_1_003 e_riverbirch_1_003 e_yellowwood_1_003 darklonggrass darklonggrass darkmedgrass darkshortgrass darklonggrass darklonggrass darkmedgrass darkshortgrass d_plants_1_024 d_plants_1_025 d_plants_1_026 d_plants_1_027 d_plants_1_028 d_plants_1_029 d_plants_1_030 d_plants_1_031 vegetation_foliage_01_008 vegetation_foliage_01_009 vegetation_foliage_01_010 vegetation_foliage_01_011 vegetation_foliage_01_012 vegetation_foliage_01_013 vegetation_foliage_01_014 d_plants_1_016 d_plants_1_017 d_plants_1_018 d_plants_1_019 d_plants_1_020 d_plants_1_021 d_plants_1_022 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="Trees + Dark grass" bitmapIndex="1" color="127 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 darklonggrass darklonggrass darkmedgrass darkshortgrass" targetLayer="0_Vegetation" condition="90 100 35"/>
    <rule label="Trees + Medium grass" bitmapIndex="1" color="127 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 medlonggrass medlonggrass medmedgrass medshortgrass" targetLayer="0_Vegetation" condition="117 117 47"/>
    <rule label="Trees + Light grass" bitmapIndex="1" color="127 0 0" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 lightlonggrass lightlonggrass lightmedgrass lightshortgrass" targetLayer="0_Vegetation" condition="145 135 60"/>
@@ -1339,17 +1278,15 @@
    <rule label="" bitmapIndex="1" color="240 50 160" tileChoices="d_plants_1_040 d_plants_1_041 d_plants_1_042 d_plants_1_043 d_plants_1_045 d_plants_1_046 d_plants_1_047" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="40 90 60" tileChoices="e_americanlinden_1_015 e_carolinasilverbell_1_015 e_cockspurhawthorn_1_015 e_dogwood_1_015 e_easternredbud_1_015 e_redmaple_1_015 e_riverbirch_1_015 e_yellowwood_1_015" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="40 90 60" tileChoices="e_americanlinden_1_003 e_carolinasilverbell_1_003 e_cockspurhawthorn_1_003 e_dogwood_1_003 e_easternredbud_1_003 e_redmaple_1_003 e_riverbirch_1_003 e_yellowwood_1_003" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="" bitmapIndex="1" color="90 85 0" tileChoices="lightshortgrass lightmedgrass lightmedgrass e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 d_generic_1_022 d_generic_1_023 d_generic_1_024 d_generic_1_025 d_generic_1_043 aza_cacti_006 aza_cacti_007 aza_cacti_008 aza_cacti_009 aza_cacti_006 aza_cacti_007 aza_cacti_008 aza_cacti_009 aza_cacti_009 aza_deserttrees_000 aza_deserttrees_001 aza_deserttrees_002 aza_deserttrees_003 aza_deserttrees_004 aza_deserttrees_005" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="" bitmapIndex="1" color="90 85 0" tileChoices="lightshortgrass lightmedgrass lightmedgrass e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 d_generic_1_022 d_generic_1_023 d_generic_1_024 d_generic_1_025 d_generic_1_043" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="200 85 0" tileChoices="d_generic_1_049 d_generic_1_050 d_generic_1_051 d_generic_1_052 d_generic_1_053 d_generic_1_054 d_generic_1_055 d_generic_1_048 d_generic_1_085 d_generic_1_080 d_generic_1_081 d_generic_1_082 d_generic_1_083 d_generic_1_084 d_generic_1_086 d_generic_1_087" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="250 80 70" tileChoices="d_trash_1_000 d_trash_1_001 d_trash_1_002 d_trash_1_003 d_trash_1_004 d_trash_1_005 d_trash_1_006 d_trash_1_007 d_trash_1_008 d_trash_1_009 d_trash_1_010 d_trash_1_011 d_trash_1_012 d_trash_1_013 d_trash_1_014 d_trash_1_015 d_trash_1_016 d_trash_1_017 d_trash_1_018 d_trash_1_019 d_trash_1_021 d_trash_1_022 d_trash_1_023 d_trash_1_024 d_trash_1_025" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="Brush" bitmapIndex="1" color="145 85 70" tileChoices="aza_deserttrees_004 aza_deserttrees_005 lightlonggrass lightlonggrass lightmedgrass lightshortgrass vegetation_foliage_01_008 vegetation_foliage_01_009 vegetation_foliage_01_010 vegetation_foliage_01_011 vegetation_foliage_01_012 vegetation_foliage_01_013 vegetation_foliage_01_014 d_plants_1_016 d_plants_1_017 d_plants_1_018 d_plants_1_019 d_plants_1_020 d_plants_1_021 d_plants_1_022 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019 d_plants_1_018 d_plants_1_019" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="128 128 128" tileChoices="d_streetcracks_1_001 d_streetcracks_1_003 d_streetcracks_1_002 d_streetcracks_1_004 d_streetcracks_1_005 d_streetcracks_1_006 d_streetcracks_1_007 d_streetcracks_1_008 d_streetcracks_1_009 d_streetcracks_1_010 d_streetcracks_1_011 d_streetcracks_1_000 d_streetcracks_1_012 d_streetcracks_1_013 d_streetcracks_1_014 d_streetcracks_1_015" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="130 160 175" tileChoices="location_community_cemetary_01_000 location_community_cemetary_01_002 location_community_cemetary_01_004 location_community_cemetary_01_008 location_community_cemetary_01_000 location_community_cemetary_01_002 location_community_cemetary_01_004 location_community_cemetary_01_008 location_community_cemetary_01_000 location_community_cemetary_01_002 location_community_cemetary_01_004 location_community_cemetary_01_008 location_community_cemetary_01_022" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="80 110 175" tileChoices="f_flowerbed_1_001 f_flowerbed_1_002" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="210 210 140" tileChoices="lighting_outdoor_01_001" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="255 240 150" tileChoices="e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="70 0 40" tileChoices="f_bushes_1_000 f_bushes_1_001 f_bushes_1_002 f_bushes_1_003 f_bushes_1_004 f_bushes_1_005 f_bushes_1_006 f_bushes_1_007 f_bushes_1_008 f_bushes_1_009 f_bushes_1_010 f_bushes_1_011 f_bushes_1_012 f_bushes_1_013 f_bushes_1_014 f_bushes_1_015" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="" bitmapIndex="1" color="72 12 40" tileChoices="Aza_Tron_f_bushes_1_090 Aza_Tron_f_bushes_1_091 Aza_Tron_f_bushes_1_092 Aza_Tron_f_bushes_1_093 Aza_Tron_f_bushes_1_094 Aza_Tron_f_bushes_1_095 Aza_Tron_f_bushes_1_096 Aza_Tron_f_bushes_1_097 Aza_Tron_f_bushes_1_098 Aza_Tron_f_bushes_1_099 Aza_Tron_f_bushes_1_100 Aza_Tron_f_bushes_1_101 Aza_Tron_f_bushes_1_102 Aza_Tron_f_bushes_1_103 Aza_Tron_f_bushes_1_104 Aza_Tron_f_bushes_1_105" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="25 80 10" tileChoices="vegetation_ornamental_01_001" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="10 80 85" tileChoices="vegetation_ornamental_01_000" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="60 70 94" tileChoices="fencing_01_056 fencing_01_057 fencing_01_057 fencing_01_057 fencing_01_057 fencing_01_057 fencing_01_057 fencing_01_057 fencing_01_057" targetLayer="0_Vegetation" condition="0 0 0"/>
@@ -1363,46 +1300,45 @@
    <rule label="" bitmapIndex="1" color="88 88 88" tileChoices="fencing_01_048" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="110 110 110" tileChoices="fencing_01_051" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="210 188 140" tileChoices="lighting_outdoor_01_002" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="desert_Dark Grass" bitmapIndex="0" color="90 100 69" tileChoices="desert_darkgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="desert_Medium Grass" bitmapIndex="0" color="117 117 69" tileChoices="desert_medgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="desert_Light Grass" bitmapIndex="0" color="145 135 69" tileChoices="desert_lightgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="desert_Sand" bitmapIndex="0" color="210 200 69" tileChoices="desert_sand" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="desert_Dirt" bitmapIndex="0" color="120 70 0" tileChoices="desert_dirt" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="alien_Dark Grass" bitmapIndex="0" color="95 100 69" tileChoices="alien_darkgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="alien_Medium Grass" bitmapIndex="0" color="115 117 69" tileChoices="alien_medgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="alien_Light Grass" bitmapIndex="0" color="147 135 69" tileChoices="alien_lightgrass" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="alien_Sand" bitmapIndex="0" color="215 200 69" tileChoices="alien_sand" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="alien_Dirt" bitmapIndex="0" color="125 70 0" tileChoices="alien_dirt" targetLayer="0_Floor" condition="0 0 0"/>
-   <rule label="" bitmapIndex="1" color="90 85 20" tileChoices="alien_e_americanholly_1_000 alien_e_americanholly_1_001 alien_e_americanholly_1_002 alien_e_americanholly_1_003 alien_e_americanholly_1_002 alien_e_americanholly_1_003 alien_e_americanholly_1_002 alien_e_americanholly_1_003 alien_e_americanholly_1_002 alien_e_americanholly_1_003 alien_e_americanholly_1_002 alien_e_americanholly_1_003 alien_e_virginiapine_1_000 alien_e_virginiapine_1_001 alien_e_virginiapine_1_002 alien_e_virginiapine_1_003 alien_e_virginiapine_1_002 alien_e_virginiapine_1_003 alien_e_virginiapine_1_002 alien_e_virginiapine_1_003 alien_e_newgrass_1_000 alien_e_newgrass_1_001 alien_e_newgrass_1_002 alien_e_newgrass_1_003 alien_e_newgrass_1_004 alien_e_newgrass_1_005 alien_e_newgrass_1_006 alien_e_newgrass_1_007 alien_e_newgrass_1_008 alien_e_newgrass_1_009 alien_e_newgrass_1_010 alien_e_newgrass_1_011 alien_e_newgrass_1_012 alien_e_newgrass_1_013 alien_e_newgrass_1_014 alien_e_newgrass_1_015 alien_e_newgrass_1_016 alien_e_newgrass_1_017 alien_e_newgrass_1_018 alien_e_newgrass_1_019 alien_e_newgrass_1_020 alien_e_newgrass_1_021 alien_e_newgrass_1_022 alien_e_newgrass_1_023 alien_e_newgrass_1_024 alien_e_newgrass_1_025 alien_e_newgrass_1_026 alien_e_newgrass_1_027 alien_e_newgrass_1_028 alien_e_newgrass_1_029 alien_e_newgrass_1_030 alien_e_newgrass_1_031 alien_e_newgrass_1_032 alien_e_newgrass_1_033 alien_e_newgrass_1_034 alien_e_newgrass_1_035 alien_e_newgrass_1_036 alien_e_newgrass_1_037 alien_e_newgrass_1_038 alien_e_newgrass_1_039 alien_e_newgrass_1_040 alien_e_newgrass_1_041 alien_e_newgrass_1_042 alien_e_newgrass_1_043 alien_e_newgrass_1_044 alien_e_newgrass_1_045 alien_e_newgrass_1_046 alien_e_newgrass_1_047 alien_e_newgrass_1_048 alien_e_newgrass_1_049 alien_e_newgrass_1_050 alien_e_newgrass_1_051" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="" bitmapIndex="1" color="100 95 35" tileChoices="alien_e_newgrass_1_000 alien_e_newgrass_1_001 alien_e_newgrass_1_002 alien_e_newgrass_1_003 alien_e_newgrass_1_004 alien_e_newgrass_1_005 alien_e_newgrass_1_006 alien_e_newgrass_1_007 alien_e_newgrass_1_008 alien_e_newgrass_1_009 alien_e_newgrass_1_010 alien_e_newgrass_1_011 alien_e_newgrass_1_012 alien_e_newgrass_1_013 alien_e_newgrass_1_014 alien_e_newgrass_1_015 alien_e_newgrass_1_016 alien_e_newgrass_1_017 alien_e_newgrass_1_018 alien_e_newgrass_1_019 alien_e_newgrass_1_020 alien_e_newgrass_1_021 alien_e_newgrass_1_022 alien_e_newgrass_1_023 alien_e_newgrass_1_024 alien_e_newgrass_1_025 alien_e_newgrass_1_026 alien_e_newgrass_1_027 alien_e_newgrass_1_028 alien_e_newgrass_1_029 alien_e_newgrass_1_030 alien_e_newgrass_1_031 alien_e_newgrass_1_032 alien_e_newgrass_1_033 alien_e_newgrass_1_034 alien_e_newgrass_1_035 alien_e_newgrass_1_036 alien_e_newgrass_1_037 alien_e_newgrass_1_038 alien_e_newgrass_1_039 alien_e_newgrass_1_040 alien_e_newgrass_1_041 alien_e_newgrass_1_042 alien_e_newgrass_1_043 alien_e_newgrass_1_044 alien_e_newgrass_1_045 alien_e_newgrass_1_046 alien_e_newgrass_1_047 alien_e_newgrass_1_048 alien_e_newgrass_1_049 alien_e_newgrass_1_050 alien_e_newgrass_1_051" targetLayer="0_Vegetation" condition="0 0 0"/>
-   <rule label="" bitmapIndex="1" color="200 85 69" tileChoices="alien_d_generic_1_049 alien_d_generic_1_050 alien_d_generic_1_051 alien_d_generic_1_052 alien_d_generic_1_053 alien_d_generic_1_054 alien_d_generic_1_055 alien_d_generic_1_048 alien_d_generic_1_085 alien_d_generic_1_080 alien_d_generic_1_081 alien_d_generic_1_082 alien_d_generic_1_083 alien_d_generic_1_084 alien_d_generic_1_086 alien_d_generic_1_087" targetLayer="0_Vegetation" condition="0 0 0"/>
    <rule label="" bitmapIndex="1" color="85 180 80" tileChoices="vegetation_groundcover_01_018 vegetation_groundcover_01_019 vegetation_groundcover_01_021 vegetation_groundcover_01_022 vegetation_groundcover_01_023 lightlonggrass lightmedgrass lightshortgrass lightmedgrass darklonggrass darkmedgrass darkshortgrass medlonggrass medmedgrass medshortgrass vegetation_foliage_01_008 vegetation_foliage_01_009 vegetation_foliage_01_010 vegetation_foliage_01_011 vegetation_foliage_01_012 vegetation_foliage_01_013 vegetation_foliage_01_014 vegetation_trees_01_000 vegetation_trees_01_001 vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="DeadTreesX_X" bitmapIndex="1" color="5 5 5" tileChoices="aza_burnt_veg_008 aza_burnt_veg_009 aza_burnt_veg_010 aza_burnt_veg_011 aza_burnt_veg_012 aza_burnt_veg_013 aza_burnt_veg_014 aza_burnt_veg_015 aza_burnt_veg_016 aza_burnt_veg_017 aza_burnt_veg_018 aza_burnt_veg_019 aza_burnt_veg_020 aza_burnt_veg_021 aza_burnt_veg_022 aza_burnt_veg_023 aza_burnt_veg_024 aza_burnt_veg_025 aza_burnt_veg_026 aza_burnt_veg_027 fencing_burnt_01_016 fencing_burnt_01_017 fencing_burnt_01_018 fencing_burnt_01_019 Ash Ash" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="DeadPlantsX_X" bitmapIndex="1" color="55 5 5" tileChoices="aza_burnt_veg_008 aza_burnt_veg_012 aza_burnt_veg_016 aza_burnt_veg_020 aza_burnt_veg_024 Ash Ash Ash aza_burnt_veg_032 aza_burnt_veg_033 aza_burnt_veg_035 aza_burnt_veg_034 aza_burnt_veg_036 aza_burnt_veg_037 aza_burnt_veg_038 aza_burnt_veg_039 aza_burnt_veg_040 aza_burnt_veg_041 aza_burnt_veg_042 aza_burnt_veg_043 aza_burnt_veg_044 aza_burnt_veg_047 aza_burnt_veg_045 aza_burnt_veg_046" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="Baby Forest" bitmapIndex="1" color="150 200 150" tileChoices="darkshortgrass medshortgrass darkmedgrass darklonggrass e_americanholly_1_000 e_americanholly_1_001 e_canadianhemlock_1_000 e_canadianhemlock_1_001" targetLayer="0_Vegetation" condition="0 0 0"/>
+   <rule label="Aza's Boulders, Trees, and Grass" bitmapIndex="1" color="255 170 255" tileChoices="vegetation_trees_01_008 vegetation_trees_01_009 vegetation_trees_01_010 vegetation_trees_01_011 e_americanlinden_1_003 e_carolinasilverbell_1_003 e_cockspurhawthorn_1_003 e_dogwood_1_003 e_easternredbud_1_003 e_redmaple_1_003 e_riverbirch_1_003 e_yellowwood_1_003 darkshortgrass medshortgrass darkmedgrass darklonggrass aza_rockycliff_072 aza_rockycliff_073 aza_rockycliff_074 aza_rockycliff_075 aza_rockycliff_076 aza_rockycliff_077 aza_rockycliff_078 aza_rockycliff_079 aza_rockycliff_080 aza_rockycliff_081 e_newgrass_1_071 e_newgrass_1_072 e_newgrass_1_073 e_newgrass_1_074 e_newgrass_1_075 e_newgrass_1_076 e_newgrass_1_077 e_newgrass_1_078 e_newgrass_1_079 e_newgrass_1_080 e_newgrass_1_081 e_newgrass_1_082 e_newgrass_1_083 e_newgrass_1_084 e_newgrass_1_085 e_newgrass_1_086 e_newgrass_1_087 e_newgrass_1_088 e_newgrass_1_089 d_generic_1_022 d_generic_1_023 d_generic_1_024 d_generic_1_025 d_generic_1_043" targetLayer="0_Vegetation" condition="0 0 0"/>
   </rules>
   <blends>
-   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="darkgrass_n" dir="n" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="darkgrass_w" dir="w" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="darkgrass_e" dir="e" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="darkgrass_s" dir="s" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="blends_natural_01_017" dir="nw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="blends_natural_01_020" dir="ne" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="blends_natural_01_019" dir="sw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="blends_natural_01_018" dir="se" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="medgrass_n" dir="n" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="medgrass_w" dir="w" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="medgrass_e" dir="e" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="medgrass_s" dir="s" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="blends_natural_01_033" dir="nw" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="blends_natural_01_036" dir="ne" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="blends_natural_01_035" dir="sw" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="blends_natural_01_034" dir="se" ExclusionList="darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="lightgrass_n" dir="n" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="lightgrass_w" dir="w" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="lightgrass_e" dir="e" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="lightgrass_s" dir="s" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="blends_natural_01_049" dir="nw" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="blends_natural_01_052" dir="ne" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="blends_natural_01_051" dir="sw" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="blends_natural_01_050" dir="se" ExclusionList="darkgrass medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="moss" blendTile="aza_the_forest_moss_blends_008" dir="n" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="moss" blendTile="aza_the_forest_moss_blends_009" dir="w" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="moss" blendTile="aza_the_forest_moss_blends_010" dir="e" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="moss" blendTile="aza_the_forest_moss_blends_011" dir="s" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="moss" blendTile="aza_the_forest_moss_blends_001" dir="nw" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="moss" blendTile="aza_the_forest_moss_blends_002" dir="se" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="moss" blendTile="aza_the_forest_moss_blends_003" dir="sw" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="moss" blendTile="aza_the_forest_moss_blends_004" dir="ne" ExclusionList="dirt darkgrass lightgrass medgrass water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="darkgrass_n" dir="n" ExclusionList="water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="darkgrass_w" dir="w" ExclusionList="water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="darkgrass_e" dir="e" ExclusionList="water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="darkgrass_s" dir="s" ExclusionList="water CharredEarth scorchedEarth" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="darkgrass" blendTile="blends_natural_01_017" dir="nw" ExclusionList="water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="darkgrass" blendTile="blends_natural_01_020" dir="ne" ExclusionList="water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="darkgrass" blendTile="blends_natural_01_019" dir="sw" ExclusionList="water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="darkgrass" blendTile="blends_natural_01_018" dir="se" ExclusionList="water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="medgrass_n" dir="n" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="medgrass_w" dir="w" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="medgrass_e" dir="e" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="medgrass_s" dir="s" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="medgrass" blendTile="blends_natural_01_033" dir="nw" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="medgrass" blendTile="blends_natural_01_036" dir="ne" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="medgrass" blendTile="blends_natural_01_035" dir="sw" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="medgrass" blendTile="blends_natural_01_034" dir="se" ExclusionList="darkgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="lightgrass_n" dir="n" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="lightgrass_w" dir="w" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="lightgrass_e" dir="e" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="lightgrass_s" dir="s" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="lightgrass" blendTile="blends_natural_01_049" dir="nw" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="lightgrass" blendTile="blends_natural_01_052" dir="ne" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="lightgrass" blendTile="blends_natural_01_051" dir="sw" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="lightgrass" blendTile="blends_natural_01_050" dir="se" ExclusionList="darkgrass medgrass water CharredEarth scorchedEarth" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
    <blend targetLayer="0_FloorOverlay" mainTile="sand" blendTile="sand_n" dir="n" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
    <blend targetLayer="0_FloorOverlay2" mainTile="sand" blendTile="sand_w" dir="w" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
    <blend targetLayer="0_FloorOverlay3" mainTile="sand" blendTile="sand_e" dir="e" ExclusionList="darkgrass medgrass lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
@@ -1419,22 +1355,22 @@
    <blend targetLayer="0_FloorOverlay2" mainTile="blends_street_01_000" blendTile="blends_street_01_002" dir="se" ExclusionList="lightgrass medgrass darkgrass sand pothole dirt" exclude2=""/>
    <blend targetLayer="0_FloorOverlay3" mainTile="blends_street_01_000" blendTile="blends_street_01_003" dir="sw" ExclusionList="lightgrass medgrass darkgrass sand pothole dirt" exclude2=""/>
    <blend targetLayer="0_FloorOverlay4" mainTile="blends_street_01_000" blendTile="blends_street_01_004" dir="ne" ExclusionList="lightgrass medgrass darkgrass sand pothole dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_024" dir="n" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_025" dir="w" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_026" dir="e" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_027" dir="s" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_017" dir="nw" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_018" dir="se" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_019" dir="sw" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_020" dir="ne" ExclusionList="lightgrass medgrass darkgrass sand desert_lightgrass desert_medgrass desert_darkgrass desert_sand desert_dirt alien_lightgrass alien_medgrass alien_darkgrass alien_sand alien_dirt" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_072" dir="n" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_073" dir="w" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_074" dir="e" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_075" dir="s" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_065" dir="nw" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_066" dir="se" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_067" dir="sw" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_068" dir="ne" ExclusionList="water lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_024" dir="n" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_025" dir="w" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_026" dir="e" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_027" dir="s" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="pothole" blendTile="blends_street_01_017" dir="nw" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="pothole" blendTile="blends_street_01_018" dir="se" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="pothole" blendTile="blends_street_01_019" dir="sw" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="pothole" blendTile="blends_street_01_020" dir="ne" ExclusionList="lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_072" dir="n" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_073" dir="w" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_074" dir="e" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_075" dir="s" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="dirt" blendTile="blends_natural_01_065" dir="nw" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="dirt" blendTile="blends_natural_01_066" dir="se" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="dirt" blendTile="blends_natural_01_067" dir="sw" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="dirt" blendTile="blends_natural_01_068" dir="ne" ExclusionList="water CharredEarth scorchedEarth lightgrass medgrass darkgrass sand" exclude2=""/>
    <blend targetLayer="0_FloorOverlay4" mainTile="water" blendTile="blends_natural_02_008" dir="n" ExclusionList="" exclude2=""/>
    <blend targetLayer="0_FloorOverlay3" mainTile="water" blendTile="blends_natural_02_009" dir="w" ExclusionList="" exclude2=""/>
    <blend targetLayer="0_FloorOverlay" mainTile="water" blendTile="blends_natural_02_010" dir="e" ExclusionList="" exclude2=""/>
@@ -1443,94 +1379,22 @@
    <blend targetLayer="0_FloorOverlay2" mainTile="water" blendTile="blends_natural_02_002" dir="se" ExclusionList="" exclude2=""/>
    <blend targetLayer="0_FloorOverlay3" mainTile="water" blendTile="blends_natural_02_003" dir="sw" ExclusionList="" exclude2=""/>
    <blend targetLayer="0_FloorOverlay4" mainTile="water" blendTile="blends_natural_02_004" dir="ne" ExclusionList="" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_darkgrass" blendTile="desert_darkgrass_n" dir="n" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_darkgrass" blendTile="desert_darkgrass_w" dir="w" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_darkgrass" blendTile="desert_darkgrass_e" dir="e" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_darkgrass" blendTile="desert_darkgrass_s" dir="s" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_darkgrass" blendTile="aza_desert_blends_natural_01_017" dir="nw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_darkgrass" blendTile="aza_desert_blends_natural_01_020" dir="ne" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_darkgrass" blendTile="aza_desert_blends_natural_01_019" dir="sw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_darkgrass" blendTile="aza_desert_blends_natural_01_018" dir="se" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_medgrass" blendTile="desert_medgrass_n" dir="n" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_medgrass" blendTile="desert_medgrass_w" dir="w" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_medgrass" blendTile="desert_medgrass_e" dir="e" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_medgrass" blendTile="desert_medgrass_s" dir="s" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_medgrass" blendTile="aza_desert_blends_natural_01_033" dir="nw" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_medgrass" blendTile="aza_desert_blends_natural_01_036" dir="ne" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_medgrass" blendTile="aza_desert_blends_natural_01_035" dir="sw" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_medgrass" blendTile="aza_desert_blends_natural_01_034" dir="se" ExclusionList="desert_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_lightgrass" blendTile="desert_lightgrass_n" dir="n" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_lightgrass" blendTile="desert_lightgrass_w" dir="w" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_lightgrass" blendTile="desert_lightgrass_e" dir="e" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_lightgrass" blendTile="desert_lightgrass_s" dir="s" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_lightgrass" blendTile="aza_desert_blends_natural_01_049" dir="nw" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_lightgrass" blendTile="aza_desert_blends_natural_01_052" dir="ne" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_lightgrass" blendTile="aza_desert_blends_natural_01_051" dir="sw" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_lightgrass" blendTile="aza_desert_blends_natural_01_050" dir="se" ExclusionList="desert_darkgrass desert_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_sand" blendTile="desert_sand_n" dir="n" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_sand" blendTile="desert_sand_w" dir="w" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_sand" blendTile="desert_sand_e" dir="e" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_sand" blendTile="desert_sand_s" dir="s" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_sand" blendTile="aza_desert_blends_natural_01_001" dir="nw" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_sand" blendTile="aza_desert_blends_natural_01_004" dir="ne" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_sand" blendTile="aza_desert_blends_natural_01_003" dir="sw" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_sand" blendTile="aza_desert_blends_natural_01_002" dir="se" ExclusionList="desert_darkgrass desert_medgrass desert_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_072" dir="n" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_073" dir="w" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_074" dir="e" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_075" dir="s" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_065" dir="nw" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_066" dir="se" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_067" dir="sw" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="desert_dirt" blendTile="aza_desert_blends_natural_01_068" dir="ne" ExclusionList="water desert_lightgrass desert_medgrass desert_darkgrass desert_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_darkgrass" blendTile="alien_darkgrass_n" dir="n" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_darkgrass" blendTile="alien_darkgrass_w" dir="w" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_darkgrass" blendTile="alien_darkgrass_e" dir="e" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_darkgrass" blendTile="alien_darkgrass_s" dir="s" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_017" dir="nw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_020" dir="ne" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_019" dir="sw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_018" dir="se" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_darkgrass" blendTile="alien_darkgrass_n" dir="n" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_darkgrass" blendTile="alien_darkgrass_w" dir="w" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_darkgrass" blendTile="alien_darkgrass_e" dir="e" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_darkgrass" blendTile="alien_darkgrass_s" dir="s" ExclusionList="water" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_017" dir="nw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_020" dir="ne" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_019" dir="sw" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_darkgrass" blendTile="alien_blends_natural_01_018" dir="se" ExclusionList="water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_medgrass" blendTile="alien_medgrass_n" dir="n" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_medgrass" blendTile="alien_medgrass_w" dir="w" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_medgrass" blendTile="alien_medgrass_e" dir="e" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_medgrass" blendTile="alien_medgrass_s" dir="s" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_medgrass" blendTile="alien_blends_natural_01_033" dir="nw" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_medgrass" blendTile="alien_blends_natural_01_036" dir="ne" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_medgrass" blendTile="alien_blends_natural_01_035" dir="sw" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_medgrass" blendTile="alien_blends_natural_01_034" dir="se" ExclusionList="alien_darkgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_lightgrass" blendTile="alien_lightgrass_n" dir="n" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_lightgrass" blendTile="alien_lightgrass_w" dir="w" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_lightgrass" blendTile="alien_lightgrass_e" dir="e" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_lightgrass" blendTile="alien_lightgrass_s" dir="s" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_lightgrass" blendTile="alien_blends_natural_01_049" dir="nw" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_lightgrass" blendTile="alien_blends_natural_01_052" dir="ne" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_lightgrass" blendTile="alien_blends_natural_01_051" dir="sw" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_lightgrass" blendTile="alien_blends_natural_01_050" dir="se" ExclusionList="alien_darkgrass alien_medgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_sand" blendTile="alien_sand_n" dir="n" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_sand" blendTile="alien_sand_w" dir="w" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_sand" blendTile="alien_sand_e" dir="e" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_sand" blendTile="alien_sand_s" dir="s" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_sand" blendTile="alien_blends_natural_01_001" dir="nw" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_sand" blendTile="alien_blends_natural_01_004" dir="ne" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_sand" blendTile="alien_blends_natural_01_003" dir="sw" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_sand" blendTile="alien_blends_natural_01_002" dir="se" ExclusionList="alien_darkgrass alien_medgrass alien_lightgrass water" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_dirt" blendTile="alien_blends_natural_01_072" dir="n" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_dirt" blendTile="alien_blends_natural_01_073" dir="w" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_dirt" blendTile="alien_blends_natural_01_074" dir="e" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_dirt" blendTile="alien_blends_natural_01_075" dir="s" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay" mainTile="alien_dirt" blendTile="alien_blends_natural_01_065" dir="nw" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay2" mainTile="alien_dirt" blendTile="alien_blends_natural_01_066" dir="se" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay3" mainTile="alien_dirt" blendTile="alien_blends_natural_01_067" dir="sw" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
-   <blend targetLayer="0_FloorOverlay4" mainTile="alien_dirt" blendTile="alien_blends_natural_01_068" dir="ne" ExclusionList="water alien_lightgrass alien_medgrass alien_darkgrass alien_sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="scorchedEarth" blendTile="CharredEarth_n" dir="n" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="scorchedEarth" blendTile="CharredEarth_w" dir="w" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="scorchedEarth" blendTile="CharredEarth_e" dir="e" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="scorchedEarth" blendTile="CharredEarth_s" dir="s" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="scorchedEarth" blendTile="floors_burnt_01_009" dir="nw" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="scorchedEarth" blendTile="floors_burnt_01_012" dir="ne" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="scorchedEarth" blendTile="floors_burnt_01_011" dir="sw" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="scorchedEarth" blendTile="floors_burnt_01_010" dir="se" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay" mainTile="CharredEarth" blendTile="CharredEarth_n" dir="n" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="CharredEarth" blendTile="CharredEarth_w" dir="w" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="CharredEarth" blendTile="CharredEarth_e" dir="e" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="CharredEarth" blendTile="CharredEarth_s" dir="s" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2=""/>
+   <blend targetLayer="0_FloorOverlay" mainTile="CharredEarth" blendTile="floors_burnt_01_009" dir="nw" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay2" mainTile="CharredEarth" blendTile="floors_burnt_01_012" dir="ne" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay3" mainTile="CharredEarth" blendTile="floors_burnt_01_011" dir="sw" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
+   <blend targetLayer="0_FloorOverlay4" mainTile="CharredEarth" blendTile="floors_burnt_01_010" dir="se" ExclusionList="water CharredEarth scorchedEarth dirt sand" exclude2="street_trafficlines_001 0_FloorOverlay street_trafficlines_001 0_FloorOverlay2 street_trafficlines_001 0_FloorOverlay3 street_trafficlines_001 0_FloorOverlay4"/>
   </blends>
  </bmp-settings>
  <bmp-image index="0" seed="1">
@@ -1544,9 +1408,12 @@
  <bmp-image index="1" seed="1">
   <color rgb="0 128 0"/>
   <color rgb="90 100 35"/>
+  <color rgb="127 0 0"/>
   <color rgb="127 127 0"/>
+  <color rgb="255 0 0"/>
+  <color rgb="255 170 255"/>
   <pixels>
-   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
+   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
   </pixels>
  </bmp-image>
 </map>
